@@ -1,0 +1,48 @@
+---
+title: "Research Areas"
+---
+
+## Pairwise and higher-order networks
+
+Complex systems, which model a collection of entities and their interactions, can be represented using several different mathematical objects. One common representation is a *pairwise network* where one assumes that only two entities may interact at once.
+Many empirical systems, however, often contain interactions between an arbitrary number of entities, also known as *higher-order interactions*. Higher-order networks, also known as *hypergraphs*, can model these higher-order interactions and can thus more accurately capture the structure, and potentially the dynamics, of these systems.
+We study the structure of these social systems and attempt to measure and model them in meaningful ways.
+
+References:
+
+* [The simpliciality of higher-order networks](https://doi.org/10.1140/epjds/s13688-024-00458-1)
+* [Filtering higher-order datasets](https://doi.org/10.1088/2632-072X/ad253a)
+
+## The spread of diseases and ideology
+
+We study how diseases and ideology spread on networks, particularly those including group interactions.
+We bridge the divide between theory and mathematical models and data, by considering expert- and data-informed models.
+
+References:
+
+* [On limitations of uniplex networks for modeling multiplex contagion](https://doi.org/10.1371/journal.pone.0279345)
+* [Effect of time-dependent infectiousness on epidemic dynamics](https://doi.org/10.1103/PhysRevE.104.064302)
+* [Opinion disparity in hypergraphs with community structure](https://doi.org/10.1103/PhysRevE.108.034311)
+* [Hypergraph assortativity: a dynamical systems perspective](https://doi.org/10.1063/5.0086905)
+* [The effect of heterogeneity on hypergraph contagion models](https://doi.org/10.1063/5.0020034)
+
+
+
+## Inferring network structure
+
+Determining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing.
+For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system's state transitions.
+We use a Bayesian framwork to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.
+
+References:
+
+* [Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics](https://doi.org/10.48550/arXiv.2405.00129)
+
+## Open software
+
+ The field of network science bridges across many different disciplines, bringing together theorists, computational scientists, social scientists, and many others, each with vastly different expertise. Open software decreases is essential for facilitating cross-disciplinary collaborations.
+
+ References:
+
+ * [XGI](https://github.com/xgi-org/xgi)
+ * [HyperContagion](https://github.com/nwlandry/hypercontagion)

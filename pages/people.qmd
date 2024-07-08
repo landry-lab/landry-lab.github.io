@@ -1,0 +1,25 @@
+---
+title: "People"
+---
+
+## Nicholas Landry, PI
+
+<img src="/assets/images/headshot_nwlandry.jpg" width="20%" hspace="20" align="left">
+Nicholas Landry is an Assistant Professor in the Biology Department at the University of Virginia. Nicholas is interested in the way that group interactions affect the dynamics of contagion spread, the structure of higher-order social systems, using data to inform mathematical models, and open-source software. Nicholas is one of the founding members of the XGI project, a software package for analyzing, modeling, and visualizing higher-order networks. Nicholas Landry was the TGIR Postdoctoral Research Fellow in the Vermont Complex Systems Center at the University of Vermont. Prior to his position at UVM, he completed a Ph.D. in Applied Mathematics at the University of Colorado Boulder. Nicholas also obtained a B.S. in Mechanical Engineering at the University of New Hampshire and worked as an engineer at a manufacturing company in Seacoast New Hampshire.
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:nicholas.landry@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://nwlandry.com" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-globe" role='img' aria-label='Website'></i> Website
+</a>
+<br>
+<br>
+```
+:::
+
+## Looking for a postdoc and graduate students!
+
+Are you interested in any of the lab's [research areas](research.qmd)? If so, reach out to nicholas.landry@virginia.edu!

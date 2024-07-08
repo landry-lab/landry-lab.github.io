@@ -1,0 +1,18 @@
+---
+title: "Quarto Playground"
+description: "A playground for Quarto"
+author: "Mickaël Canouil"
+date: "today"
+format:
+  html:
+    theme: slate
+title-block-banner: assets/images/uva.ico
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---

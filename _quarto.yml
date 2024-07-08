@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - CNAME
+  
+
+website:
+  open-graph: true
+  title: "The Landry Lab"
+  site-url: https://landry-lab.github.io
+  repo-url: https://github.com/landry-lab/landry-lab.github.io
+  favicon: assets/images/uva.ico
+  twitter-card: 
+    creator: "@nwlandry"
+    site: "@nwlandry"
+    card-style: "summary_large_image"
+
+  navbar:
+    style: "floating"
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/research.qmd
+        text: Research Areas
+      - href: pages/people.qmd
+        text: People
+    search: true
+    pinned: true
+
+format:
+  html:
+    theme: spacelab
+    mainfont: franklin-gothic, sans-serif
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    footnotes-hover: false
+    code-fold: true
