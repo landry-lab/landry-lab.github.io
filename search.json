@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Landry Lab",
+    "section": "",
+    "text": "The Landry Lab studies how networks and groups (higher-order interactions) affect the spread of diseases, information, and opinions.\nI’ll be hiring a postdoc, so stay tuned for an official job posting! I will also be recruiting a graduate student to start in the Fall of 2025!"
+  },
+  {
+    "objectID": "pages/people.html",
+    "href": "pages/people.html",
+    "title": "People",
+    "section": "",
+    "text": "Nicholas Landry is an Assistant Professor in the Biology Department at the University of Virginia. Nicholas is interested in the way that group interactions affect the dynamics of contagion spread, the structure of higher-order social systems, using data to inform mathematical models, and open-source software. Nicholas is one of the founding members of the XGI project, a software package for analyzing, modeling, and visualizing higher-order networks. Nicholas Landry was the TGIR Postdoctoral Research Fellow in the Vermont Complex Systems Center at the University of Vermont. Prior to his position at UVM, he completed a Ph.D. in Applied Mathematics at the University of Colorado Boulder. Nicholas also obtained a B.S. in Mechanical Engineering at the University of New Hampshire and worked as an engineer at a manufacturing company in Seacoast New Hampshire.\n\n\n     Email\n\n\n     Website"
+  },
+  {
+    "objectID": "pages/people.html#looking-for-a-postdoc-and-graduate-students",
+    "href": "pages/people.html#looking-for-a-postdoc-and-graduate-students",
+    "title": "People",
+    "section": "Looking for a postdoc and graduate students!",
+    "text": "Looking for a postdoc and graduate students!\nAre you interested in any of the lab’s research areas? If so, reach out to nicholas.landry@virginia.edu!"
+  },
+  {
+    "objectID": "pages/research.html",
+    "href": "pages/research.html",
+    "title": "Research Areas",
+    "section": "",
+    "text": "Complex systems, which model a collection of entities and their interactions, can be represented using several different mathematical objects. One common representation is a pairwise network where one assumes that only two entities may interact at once. Many empirical systems, however, often contain interactions between an arbitrary number of entities, also known as higher-order interactions. Higher-order networks, also known as hypergraphs, can model these higher-order interactions and can thus more accurately capture the structure, and potentially the dynamics, of these systems. We study the structure of these social systems and attempt to measure and model them in meaningful ways.\nReferences:\n\nThe simpliciality of higher-order networks\nFiltering higher-order datasets"
+  },
+  {
+    "objectID": "pages/research.html#the-spread-of-diseases-and-ideology",
+    "href": "pages/research.html#the-spread-of-diseases-and-ideology",
+    "title": "Research Areas",
+    "section": "The spread of diseases and ideology",
+    "text": "The spread of diseases and ideology\nWe study how diseases and ideology spread on networks, particularly those including group interactions. We bridge the divide between theory and mathematical models and data, by considering expert- and data-informed models.\nReferences:\n\nOn limitations of uniplex networks for modeling multiplex contagion\nEffect of time-dependent infectiousness on epidemic dynamics\nOpinion disparity in hypergraphs with community structure\nHypergraph assortativity: a dynamical systems perspective\nThe effect of heterogeneity on hypergraph contagion models"
+  },
+  {
+    "objectID": "pages/research.html#inferring-network-structure",
+    "href": "pages/research.html#inferring-network-structure",
+    "title": "Research Areas",
+    "section": "Inferring network structure",
+    "text": "Inferring network structure\nDetermining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing. For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system’s state transitions. We use a Bayesian framwork to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.\nReferences:\n\nComplex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics"
+  },
+  {
+    "objectID": "pages/research.html#open-software",
+    "href": "pages/research.html#open-software",
+    "title": "Research Areas",
+    "section": "Open software",
+    "text": "Open software\nThe field of network science bridges across many different disciplines, bringing together theorists, computational scientists, social scientists, and many others, each with vastly different expertise. Open software decreases is essential for facilitating cross-disciplinary collaborations.\nReferences:\n\nXGI\nHyperContagion"
+  }
+]
