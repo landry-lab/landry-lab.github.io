@@ -2,10 +2,7 @@ project:
   type: website
   output-dir: _site
   render:
-    - "*.qmd"
-  resources:
-    - CNAME
-  
+    - "*.qmd"  
 
 website:
   open-graph: true
