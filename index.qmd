@@ -3,6 +3,6 @@ title: "The Landry Lab"
 toc: false
 ---
 
-The Landry Lab studies how networks and groups (higher-order interactions) affect the spread of diseases, information, and opinions.
+The Landry Lab studies how the structure of networks and groups affect the spread of diseases, information, and ideology.
 
 **I'll be hiring a postdoc, so stay tuned for an official job posting! I will also be recruiting a graduate student to start in the Fall of 2025!**
