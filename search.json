@@ -46,7 +46,7 @@
     "href": "pages/research.html#inferring-network-structure",
     "title": "Research Areas",
     "section": "Inferring network structure",
-    "text": "Inferring network structure\nDetermining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing. For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system’s state transitions. We use a Bayesian framwork to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.\nReferences:\n\nComplex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics"
+    "text": "Inferring network structure\nDetermining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing. For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system’s state transitions. We use a Bayesian framwork to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.\nReferences:\n\nReconstructing networks from simple and complex contagions"
   },
   {
     "objectID": "pages/research.html#open-software",
@@ -60,6 +60,13 @@
     "href": "index.html",
     "title": "The Landry Lab",
     "section": "",
-    "text": "The Landry Lab studies how the structure of networks and groups affect the spread of diseases, information, and ideology.\nI’ll be hiring a postdoc, so stay tuned for an official job posting! I will also be recruiting a graduate student to start in the Fall of 2025!"
+    "text": "The Landry Lab at the University of Virginia studies how the structure of networks and groups affect the spread of diseases, information, and ideology.\nI’m recruiting the following positions:\nResearch Associate: I am looking for a postdoctoral researcher to work on the following areas:\nGraduate Students: Graduate students will have considerable latitude to choose courses and a research project that interests them. An informational session will be held on September 11 3:00-4:30pm ET for those interested in learning more about the application process at UVA Biology."
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "The Landry Lab",
+    "section": "Recent News",
+    "text": "Recent News\n\nSeptember 2024: Info session on September 11th, 3:00-4:30 PM for graduate students interested in applying to the UVA Biology program!\nAugust 2024: A Research Associate (Postdoc) position is live at UVA Jobs! I’ll start reviewing applications on October 15th. Please reach out with any questions."
   }
 ]
