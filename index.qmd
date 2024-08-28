@@ -1,8 +1,25 @@
 ---
-title: "The Landry Lab"
+title: ""
 toc: false
 ---
 
-The Landry Lab studies how the structure of networks and groups affect the spread of diseases, information, and ideology.
 
-**I'll be hiring a postdoc, so stay tuned for an official job posting! I will also be recruiting a graduate student to start in the Fall of 2025!**
+The Landry Lab at the University of Virginia studies how the structure of networks and groups affect the spread of diseases, information, and ideology.
+
+I'm recruiting the following positions:
+
+**Research Associate**: I am looking for a postdoctoral researcher to work on the following areas:
+
+* Dynamical models: Developing realistic models for the spread of diseases and ideology on networks, particularly higher-order networks
+* Bayesian Inference: Reconstructing networks and disease dynamics from imperfect and noisy observational data
+* Higher-order network structure: Developing higher-order measures sensible for the spread of diseases and information
+* Software development: Developing scientific Python software to support research and facilitate the dissemination of results
+Submit your application at [UVA Jobs](https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology).
+
+**Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them.
+An [informational session](https://bio.as.virginia.edu/webinar-how-apply-grad-school-0) will be held on September 11 3:00-4:30pm ET for those interested in learning more about the application process at UVA Biology. 
+
+## Recent News
+
+* **September 2024**: [Info session](https://bio.as.virginia.edu/webinar-how-apply-grad-school-0) on September 11th, 3:00-4:30 PM for graduate students interested in applying to the [UVA Biology](https://bio.as.virginia.edu/) program!
+* **August 2024**: A Research Associate (Postdoc) position is live at [UVA Jobs](https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology)! I'll start reviewing applications on October 15th. Please reach out with any questions.

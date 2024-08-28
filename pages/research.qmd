@@ -36,7 +36,7 @@ We use a Bayesian framwork to reconstruct networks from all kinds of data: mobil
 
 References:
 
-* [Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics](https://doi.org/10.48550/arXiv.2405.00129)
+* [Reconstructing networks from simple and complex contagions](https://doi.org/10.48550/arXiv.2405.00129)
 
 ## Open software
 
