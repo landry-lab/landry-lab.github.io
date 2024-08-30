@@ -14,6 +14,7 @@ I'm recruiting the following positions:
 * Bayesian Inference: Reconstructing networks and disease dynamics from imperfect and noisy observational data
 * Higher-order network structure: Developing higher-order measures sensible for the spread of diseases and information
 * Software development: Developing scientific Python software to support research and facilitate the dissemination of results
+
 Submit your application at [UVA Jobs](https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology).
 
 **Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them.
