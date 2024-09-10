@@ -1,14 +1,29 @@
 ---
-title: ""
+title: "Contagion, networks, data, and software"
+title-block-banner: assets/images/visualization.svg
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 400px;
+      }
+      .title {
+        background-color: rgba(0, 0, 0, 0.3); /* Adjust color and transparency as needed */
+        padding: 10px; /* Add padding for spacing */
+        display: inline-block; /* To only apply the background to the text */
+        border-radius: 0px; /* Optional: adds rounded corners to the background */
+      }
+      </style>
 toc: false
 ---
 
-
-The Landry Lab at the University of Virginia studies how the structure of networks and groups affect the spread of diseases, information, and ideology.
+The Landry Lab at the University of Virginia studies how the structure of networks and groups affect the spread of diseases, information, and ideology. 
 
 I'm recruiting the following positions:
 
-**Research Associate**: I am looking for a postdoctoral researcher to work on the following areas:
+**Research Associate**: I am looking for a postdoctoral researcher to work on the following areas: 
 
 * Dynamical models: Developing realistic models for the spread of diseases and ideology on networks, particularly higher-order networks
 * Bayesian Inference: Reconstructing networks and disease dynamics from imperfect and noisy observational data
