@@ -1,0 +1,37 @@
+landry_theoretical_2024:
+  title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
+  authors:
+    - me
+    - Beckett R. Hyde
+    - Jake C. Perez
+    - Sean E. Shaheen
+    - Juan G. Restrepo
+  year: 2024
+  preprint: http://arxiv.org/abs/2408.09223
+  code: https://github.com/Signed-B/reservoir-computing-on-OECTs
+
+hebert-dufresne_stochastic_2024:
+  title: "Stochastic diffusion with approximate master equations with mean-field limits"
+  authors:
+    - Laurent Hébert-Dufresne
+    - Matthew M. Kling
+    - Samuel F. Rosenblatt
+    - Stephanie N. Miller
+    - P. Alexander Burnham
+    - me
+    - Nicholas J. Gotelli
+    - Brian J. McGill
+  year: 2024
+  preprint: http://arxiv.org/abs/2408.07755
+  code: https://github.com/nwlandry/mean-FLAME
+
+landry_reconstructing_2024:
+  title: "Reconstructing networks from simple and complex contagions"
+  authors:
+    - me
+    - Will Thompson
+    - Laurent Hébert-Dufresne
+    - Jean-Gabriel Young
+  year: 2024
+  preprint: https://doi.org/10.48550/arXiv.2405.00129
+  code: https://github.com/nwlandry/complex-network-reconstruction

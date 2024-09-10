@@ -19,11 +19,18 @@ include-in-header:
 toc: false
 ---
 
-The Landry Lab at the University of Virginia studies how the structure of networks and groups affect the spread of diseases, information, and ideology. 
+The Landry Lab at the University of Virginia studies **how the structure of networks and groups affect the spread of diseases, information, and ideology.**
+We seek to answer questions like, How do groups change the way that information and diseases spread?
+How does the size of a group change the probability that its members will change their minds?
+How do groups form?
+Can we effective mitigate diseases if we understand the underlying connection patterns?
+We use tools from network science, mathematical modeling, Bayesian inference, and open-source development to help answer these questions.
 
-I'm recruiting the following positions:
+## Open positions
 
-**Research Associate**: I am looking for a postdoctoral researcher to work on the following areas: 
+We are recruiting the following positions:
+
+**Research Associate**: We are looking for a postdoctoral researcher to work on the following areas: 
 
 * Dynamical models: Developing realistic models for the spread of diseases and ideology on networks, particularly higher-order networks
 * Bayesian Inference: Reconstructing networks and disease dynamics from imperfect and noisy observational data
@@ -33,7 +40,8 @@ I'm recruiting the following positions:
 Submit your application at [UVA Jobs](https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology).
 
 **Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them.
-An [informational session](https://bio.as.virginia.edu/webinar-how-apply-grad-school-0) will be held on September 11 3:00-4:30pm ET for those interested in learning more about the application process at UVA Biology. 
+An [informational session](https://bio.as.virginia.edu/webinar-how-apply-grad-school-0) will be held on September 11 3:00-4:30pm ET for those interested in learning more about the application process at UVA Biology.
+We have funding available for interested graduate students.
 
 ## Recent News
 

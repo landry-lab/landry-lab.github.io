@@ -24,6 +24,10 @@ website:
         text: Home
       - href: pages/research.qmd
         text: Research Areas
+      - href: pages/publications.qmd
+        text: Publications
+      - href: pages/software.qmd
+        text: Software
       - href: pages/people.qmd
         text: People
     search: true

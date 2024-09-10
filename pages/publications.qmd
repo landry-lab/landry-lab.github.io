@@ -1,0 +1,49 @@
+---
+title: "Publications"
+echo: false
+jupyter: python3
+section-divs: false
+keep-md: true
+---
+
+```{python}
+from utilities import *
+pub_strs = load_publication_data("../publications.yaml")
+```
+
+```{python}
+#| label: "published"
+#| id: "published"
+#| output: asis
+for year in sorted(pub_strs["pubs"], reverse=True):
+    display(HTML(
+        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
+    ))
+```
+
+
+## Preprints
+```{python}
+
+if len(pub_strs["wps"]) == 0:
+    display(HTML(
+        "Currently no unpublished work."
+    ))
+#| label: "preprint"
+#| id: "preprint"
+#| output: asis
+for year in sorted(pub_strs["wps"], reverse=True):
+    display(HTML(
+        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["wps"][year]) + "</ul>"
+    ))
+```
+
+```{python}
+#| label: "theses"
+#| id: "theses"
+#| output: asis
+for year in sorted(pub_strs["theses"], reverse=True):
+    display(HTML(
+        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["theses"][year]) + "</ul>"
+    ))
+```

@@ -1,0 +1,17 @@
+---
+title: "Software"
+echo: false
+jupyter: python3
+section-divs: false
+---
+
+Our group helps maintain several software resources. These are essential infrastructure for our research.
+
+```{python}
+#| label: "software"
+#| id: "software"
+#| output: asis
+from utilities import *
+
+load_software_data("../software.yaml")
+```

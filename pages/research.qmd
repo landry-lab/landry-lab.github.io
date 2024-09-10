@@ -2,7 +2,13 @@
 title: "Research Areas"
 ---
 
-## Pairwise and higher-order networks
+The Landry Lab studies how pathogens, information, and ideology spread on complex systems.
+We use tools from network science, mathematical modeling, Bayesian inference, and open-source development.
+Our research falls under the broad umbrella of dynamics on complex systems and often examines the interplay between a system's structure and its dynamics.
+
+## Pairwise and higher-order network structure
+
+![](/assets/images/simpliciality.svg)
 
 Complex systems, which model a collection of entities and their interactions, can be represented using several different mathematical objects. One common representation is a *pairwise network* where one assumes that only two entities may interact at once.
 Many empirical systems, however, often contain interactions between an arbitrary number of entities, also known as *higher-order interactions*. Higher-order networks, also known as *hypergraphs*, can model these higher-order interactions and can thus more accurately capture the structure, and potentially the dynamics, of these systems.
@@ -13,7 +19,18 @@ References:
 * [The simpliciality of higher-order networks](https://doi.org/10.1140/epjds/s13688-024-00458-1)
 * [Filtering higher-order datasets](https://doi.org/10.1088/2632-072X/ad253a)
 
-## The spread of diseases and ideology
+## Inferring network structure
+![](/assets/images/inference.png)
+
+Determining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing.
+For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system's state transitions.
+We use Bayesian inference to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.
+
+* [Reconstructing networks from simple and complex contagions](https://doi.org/10.48550/arXiv.2405.00129)
+
+## The spread of diseases, information, and ideology
+
+![](/assets/images/multiplex-contagion.png)
 
 We study how diseases and ideology spread on networks, particularly those including group interactions.
 We bridge the divide between theory and mathematical models and data, by considering expert- and data-informed models.
@@ -23,20 +40,7 @@ References:
 * [On limitations of uniplex networks for modeling multiplex contagion](https://doi.org/10.1371/journal.pone.0279345)
 * [Effect of time-dependent infectiousness on epidemic dynamics](https://doi.org/10.1103/PhysRevE.104.064302)
 * [Opinion disparity in hypergraphs with community structure](https://doi.org/10.1103/PhysRevE.108.034311)
-* [Hypergraph assortativity: a dynamical systems perspective](https://doi.org/10.1063/5.0086905)
 * [The effect of heterogeneity on hypergraph contagion models](https://doi.org/10.1063/5.0020034)
-
-
-
-## Inferring network structure
-
-Determining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing.
-For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system's state transitions.
-We use a Bayesian framwork to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.
-
-References:
-
-* [Reconstructing networks from simple and complex contagions](https://doi.org/10.48550/arXiv.2405.00129)
 
 ## Open software
 
