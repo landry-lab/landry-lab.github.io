@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Preprints\n\n\nNicholas W. Landry, Beckett R. Hyde, Jake C. Perez, Sean E. Shaheen, and Juan G. Restrepo, \"A theoretical framework for reservoir computing on networks of organic electrochemical transistors\", (2024).\n        \n        Preprint\n     \n        \n        Code\n    \nLaurent Hébert-Dufresne, Matthew M. Kling, Samuel F. Rosenblatt, Stephanie N. Miller, P. Alexander Burnham, Nicholas W. Landry, Nicholas J. Gotelli, and Brian J. McGill, \"Stochastic diffusion with approximate master equations with mean-field limits\", (2024).\n        \n        Preprint\n     \n        \n        Code\n    \nNicholas W. Landry, Will Thompson, Laurent Hébert-Dufresne, and Jean-Gabriel Young, \"Reconstructing networks from simple and complex contagions\", (2024).\n        \n        Preprint\n     \n        \n        Code"
+  },
+  {
     "objectID": "pages/people.html",
     "href": "pages/people.html",
     "title": "People",
@@ -25,7 +32,14 @@
     "href": "index.html",
     "title": "Contagion, networks, data, and software",
     "section": "",
-    "text": "The Landry Lab at the University of Virginia studies how the structure of networks and groups affect the spread of diseases, information, and ideology.\nI’m recruiting the following positions:\nResearch Associate: I am looking for a postdoctoral researcher to work on the following areas:\nSubmit your application at UVA Jobs.\nGraduate Students: Graduate students will have considerable latitude to choose courses and a research project that interests them. An informational session will be held on September 11 3:00-4:30pm ET for those interested in learning more about the application process at UVA Biology."
+    "text": "The Landry Lab at the University of Virginia studies how the structure of networks and groups affect the spread of diseases, information, and ideology. We seek to answer questions like, How do groups change the way that information and diseases spread? How does the size of a group change the probability that its members will change their minds? How do groups form? Can we effective mitigate diseases if we understand the underlying connection patterns? We use tools from network science, mathematical modeling, Bayesian inference, and open-source development to help answer these questions."
+  },
+  {
+    "objectID": "index.html#open-positions",
+    "href": "index.html#open-positions",
+    "title": "Contagion, networks, data, and software",
+    "section": "Open positions",
+    "text": "Open positions\nWe are recruiting the following positions:\nResearch Associate: We are looking for a postdoctoral researcher to work on the following areas:\n\nDynamical models: Developing realistic models for the spread of diseases and ideology on networks, particularly higher-order networks\nBayesian Inference: Reconstructing networks and disease dynamics from imperfect and noisy observational data\nHigher-order network structure: Developing higher-order measures sensible for the spread of diseases and information\nSoftware development: Developing scientific Python software to support research and facilitate the dissemination of results\n\nSubmit your application at UVA Jobs.\nGraduate Students: Graduate students will have considerable latitude to choose courses and a research project that interests them. An informational session will be held on September 11 3:00-4:30pm ET for those interested in learning more about the application process at UVA Biology. We have funding available for interested graduate students."
   },
   {
     "objectID": "index.html#recent-news",
@@ -39,28 +53,28 @@
     "href": "pages/research.html",
     "title": "Research Areas",
     "section": "",
-    "text": "Complex systems, which model a collection of entities and their interactions, can be represented using several different mathematical objects. One common representation is a pairwise network where one assumes that only two entities may interact at once. Many empirical systems, however, often contain interactions between an arbitrary number of entities, also known as higher-order interactions. Higher-order networks, also known as hypergraphs, can model these higher-order interactions and can thus more accurately capture the structure, and potentially the dynamics, of these systems. We study the structure of these social systems and attempt to measure and model them in meaningful ways.\nReferences:\n\nThe simpliciality of higher-order networks\nFiltering higher-order datasets"
+    "text": "The Landry Lab studies how pathogens, information, and ideology spread on complex systems. We use tools from network science, mathematical modeling, Bayesian inference, and open-source development. Our research falls under the broad umbrella of dynamics on complex systems and often examines the interplay between a system’s structure and its dynamics."
   },
   {
-    "objectID": "pages/research.html#pairwise-and-higher-order-networks",
-    "href": "pages/research.html#pairwise-and-higher-order-networks",
+    "objectID": "pages/research.html#pairwise-and-higher-order-network-structure",
+    "href": "pages/research.html#pairwise-and-higher-order-network-structure",
     "title": "Research Areas",
-    "section": "",
-    "text": "Complex systems, which model a collection of entities and their interactions, can be represented using several different mathematical objects. One common representation is a pairwise network where one assumes that only two entities may interact at once. Many empirical systems, however, often contain interactions between an arbitrary number of entities, also known as higher-order interactions. Higher-order networks, also known as hypergraphs, can model these higher-order interactions and can thus more accurately capture the structure, and potentially the dynamics, of these systems. We study the structure of these social systems and attempt to measure and model them in meaningful ways.\nReferences:\n\nThe simpliciality of higher-order networks\nFiltering higher-order datasets"
-  },
-  {
-    "objectID": "pages/research.html#the-spread-of-diseases-and-ideology",
-    "href": "pages/research.html#the-spread-of-diseases-and-ideology",
-    "title": "Research Areas",
-    "section": "The spread of diseases and ideology",
-    "text": "The spread of diseases and ideology\nWe study how diseases and ideology spread on networks, particularly those including group interactions. We bridge the divide between theory and mathematical models and data, by considering expert- and data-informed models.\nReferences:\n\nOn limitations of uniplex networks for modeling multiplex contagion\nEffect of time-dependent infectiousness on epidemic dynamics\nOpinion disparity in hypergraphs with community structure\nHypergraph assortativity: a dynamical systems perspective\nThe effect of heterogeneity on hypergraph contagion models"
+    "section": "Pairwise and higher-order network structure",
+    "text": "Pairwise and higher-order network structure\n\nComplex systems, which model a collection of entities and their interactions, can be represented using several different mathematical objects. One common representation is a pairwise network where one assumes that only two entities may interact at once. Many empirical systems, however, often contain interactions between an arbitrary number of entities, also known as higher-order interactions. Higher-order networks, also known as hypergraphs, can model these higher-order interactions and can thus more accurately capture the structure, and potentially the dynamics, of these systems. We study the structure of these social systems and attempt to measure and model them in meaningful ways.\nReferences:\n\nThe simpliciality of higher-order networks\nFiltering higher-order datasets"
   },
   {
     "objectID": "pages/research.html#inferring-network-structure",
     "href": "pages/research.html#inferring-network-structure",
     "title": "Research Areas",
     "section": "Inferring network structure",
-    "text": "Inferring network structure\nDetermining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing. For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system’s state transitions. We use a Bayesian framwork to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.\nReferences:\n\nReconstructing networks from simple and complex contagions"
+    "text": "Inferring network structure\n\nDetermining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing. For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system’s state transitions. We use Bayesian inference to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.\n\nReconstructing networks from simple and complex contagions"
+  },
+  {
+    "objectID": "pages/research.html#the-spread-of-diseases-information-and-ideology",
+    "href": "pages/research.html#the-spread-of-diseases-information-and-ideology",
+    "title": "Research Areas",
+    "section": "The spread of diseases, information, and ideology",
+    "text": "The spread of diseases, information, and ideology\n\nWe study how diseases and ideology spread on networks, particularly those including group interactions. We bridge the divide between theory and mathematical models and data, by considering expert- and data-informed models.\nReferences:\n\nOn limitations of uniplex networks for modeling multiplex contagion\nEffect of time-dependent infectiousness on epidemic dynamics\nOpinion disparity in hypergraphs with community structure\nThe effect of heterogeneity on hypergraph contagion models"
   },
   {
     "objectID": "pages/research.html#open-software",
@@ -68,5 +82,12 @@
     "title": "Research Areas",
     "section": "Open software",
     "text": "Open software\nThe field of network science bridges across many different disciplines, bringing together theorists, computational scientists, social scientists, and many others, each with vastly different expertise. Open software decreases is essential for facilitating cross-disciplinary collaborations.\nReferences:\n\nXGI\nHyperContagion"
+  },
+  {
+    "objectID": "pages/software.html",
+    "href": "pages/software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Our group helps maintain several software resources. These are essential infrastructure for our research.\n\nxgi\nThe CompleX Group Interactions (XGI) library provides data structures and algorithms for modeling and analyzing complex systems with group (higher-order) interactions.\nMany datasets can be represented as graphs, where pairs of entities (or nodes) are related via links (or edges). Examples are road networks, energy grids, social networks, neural networks, etc. However, in many other datasets, more than two entities can be related at a time. For example, many scientists (entities) can collaborate on a scientific article together (links), and multiple email accounts (entities) can all participate on the same email thread (links). In this latter case, graphs no longer present a viable alternative to represent such datasets. It is for this kind of datasets, where the interactions are given among groups of more than two entities (also called higher-order interactions), that XGI was designed for.\nXGI is implemented in pure Python and is designed to seamlessly interoperate with the rest of the Python scientific stack (numpy, scipy, pandas, matplotlib, etc). XGI is designed and developed by network scientists with the needs of network scientists in mind.\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package\n    \nhypercontagion\nHyperContagion is a Python package for the simulation and visualization of contagion processes on complex systems with group (higher-order) interactions.\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package"
   }
 ]

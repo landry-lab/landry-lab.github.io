@@ -106,6 +106,14 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research Areas</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../pages/publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../pages/software.html"> 
+<span class="menu-text">Software</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../pages/people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
@@ -125,9 +133,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#pairwise-and-higher-order-networks" id="toc-pairwise-and-higher-order-networks" class="nav-link active" data-scroll-target="#pairwise-and-higher-order-networks">Pairwise and higher-order networks</a></li>
-  <li><a href="#the-spread-of-diseases-and-ideology" id="toc-the-spread-of-diseases-and-ideology" class="nav-link" data-scroll-target="#the-spread-of-diseases-and-ideology">The spread of diseases and ideology</a></li>
+  <li><a href="#pairwise-and-higher-order-network-structure" id="toc-pairwise-and-higher-order-network-structure" class="nav-link active" data-scroll-target="#pairwise-and-higher-order-network-structure">Pairwise and higher-order network structure</a></li>
   <li><a href="#inferring-network-structure" id="toc-inferring-network-structure" class="nav-link" data-scroll-target="#inferring-network-structure">Inferring network structure</a></li>
+  <li><a href="#the-spread-of-diseases-information-and-ideology" id="toc-the-spread-of-diseases-information-and-ideology" class="nav-link" data-scroll-target="#the-spread-of-diseases-information-and-ideology">The spread of diseases, information, and ideology</a></li>
   <li><a href="#open-software" id="toc-open-software" class="nav-link" data-scroll-target="#open-software">Open software</a></li>
   </ul>
 </nav>
@@ -154,8 +162,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="pairwise-and-higher-order-networks" class="level2">
-<h2 class="anchored" data-anchor-id="pairwise-and-higher-order-networks">Pairwise and higher-order networks</h2>
+<p>The Landry Lab studies how pathogens, information, and ideology spread on complex systems. We use tools from network science, mathematical modeling, Bayesian inference, and open-source development. Our research falls under the broad umbrella of dynamics on complex systems and often examines the interplay between a system’s structure and its dynamics.</p>
+<section id="pairwise-and-higher-order-network-structure" class="level2">
+<h2 class="anchored" data-anchor-id="pairwise-and-higher-order-network-structure">Pairwise and higher-order network structure</h2>
+<p><img src="../assets/images/simpliciality.svg" class="img-fluid"></p>
 <p>Complex systems, which model a collection of entities and their interactions, can be represented using several different mathematical objects. One common representation is a <em>pairwise network</em> where one assumes that only two entities may interact at once. Many empirical systems, however, often contain interactions between an arbitrary number of entities, also known as <em>higher-order interactions</em>. Higher-order networks, also known as <em>hypergraphs</em>, can model these higher-order interactions and can thus more accurately capture the structure, and potentially the dynamics, of these systems. We study the structure of these social systems and attempt to measure and model them in meaningful ways.</p>
 <p>References:</p>
 <ul>
@@ -163,24 +173,24 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://doi.org/10.1088/2632-072X/ad253a">Filtering higher-order datasets</a></li>
 </ul>
 </section>
-<section id="the-spread-of-diseases-and-ideology" class="level2">
-<h2 class="anchored" data-anchor-id="the-spread-of-diseases-and-ideology">The spread of diseases and ideology</h2>
+<section id="inferring-network-structure" class="level2">
+<h2 class="anchored" data-anchor-id="inferring-network-structure">Inferring network structure</h2>
+<p><img src="../assets/images/inference.png" class="img-fluid"></p>
+<p>Determining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing. For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system’s state transitions. We use Bayesian inference to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.</p>
+<ul>
+<li><a href="https://doi.org/10.48550/arXiv.2405.00129">Reconstructing networks from simple and complex contagions</a></li>
+</ul>
+</section>
+<section id="the-spread-of-diseases-information-and-ideology" class="level2">
+<h2 class="anchored" data-anchor-id="the-spread-of-diseases-information-and-ideology">The spread of diseases, information, and ideology</h2>
+<p><img src="../assets/images/multiplex-contagion.png" class="img-fluid"></p>
 <p>We study how diseases and ideology spread on networks, particularly those including group interactions. We bridge the divide between theory and mathematical models and data, by considering expert- and data-informed models.</p>
 <p>References:</p>
 <ul>
 <li><a href="https://doi.org/10.1371/journal.pone.0279345">On limitations of uniplex networks for modeling multiplex contagion</a></li>
 <li><a href="https://doi.org/10.1103/PhysRevE.104.064302">Effect of time-dependent infectiousness on epidemic dynamics</a></li>
 <li><a href="https://doi.org/10.1103/PhysRevE.108.034311">Opinion disparity in hypergraphs with community structure</a></li>
-<li><a href="https://doi.org/10.1063/5.0086905">Hypergraph assortativity: a dynamical systems perspective</a></li>
 <li><a href="https://doi.org/10.1063/5.0020034">The effect of heterogeneity on hypergraph contagion models</a></li>
-</ul>
-</section>
-<section id="inferring-network-structure" class="level2">
-<h2 class="anchored" data-anchor-id="inferring-network-structure">Inferring network structure</h2>
-<p>Determining the structure of complex systems is inferential in nature; relationships between entities in that system are deduced from observational data such as paper co-authorship, proximity sensing, and contact tracing. For example, time-series data derived from contagion processes can uncover underlying connection patterns by determining which links best explain the system’s state transitions. We use a Bayesian framwork to reconstruct networks from all kinds of data: mobility, time-series, contact tracing, and survey data.</p>
-<p>References:</p>
-<ul>
-<li><a href="https://doi.org/10.48550/arXiv.2405.00129">Reconstructing networks from simple and complex contagions</a></li>
 </ul>
 </section>
 <section id="open-software" class="level2">
