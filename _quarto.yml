@@ -10,10 +10,6 @@ website:
   site-url: https://landry-lab.github.io
   repo-url: https://github.com/landry-lab/landry-lab.github.io
   favicon: assets/images/uva.ico
-  twitter-card: 
-    creator: "@nwlandry"
-    site: "@nwlandry"
-    card-style: "summary_large_image"
 
   navbar:
     style: "floating"
