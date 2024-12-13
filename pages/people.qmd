@@ -20,6 +20,4 @@ Nicholas Landry is an Assistant Professor in the Biology Department at the Unive
 ```
 :::
 
-## Looking for a postdoc and graduate students!
-
 Are you interested in any of the lab's [research areas](research.qmd)? If so, reach out to nicholas.landry@virginia.edu!

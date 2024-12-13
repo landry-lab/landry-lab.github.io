@@ -30,21 +30,9 @@ We use tools from network science, mathematical modeling, Bayesian inference, an
 
 We are recruiting the following positions:
 
-**Research Associate**: We are looking for a postdoctoral researcher to work on the following areas: 
-
-* Dynamical models: Developing realistic models for the spread of diseases and ideology on networks, particularly higher-order networks
-* Bayesian Inference: Reconstructing networks and disease dynamics from imperfect and noisy observational data
-* Higher-order network structure: Developing higher-order measures sensible for the spread of diseases and information
-* Software development: Developing scientific Python software to support research and facilitate the dissemination of results
-
-Submit your application at [UVA Jobs](https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology).
-
-**Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them.
-The deadline for applying to the [UVA Biology](https://bio.as.virginia.edu/) program is December 1st.
-We have funding available for interested graduate students.
+**Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them. Reach out with any questions!
 
 ## Recent News
 
-* **December 2024**: Deadline for PhD students applying to the [UVA Biology](https://bio.as.virginia.edu/) program is December 1st! Feel free to reach with questions about the process!
+* **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
 * **October 2024**: The first publication for the Landry Lab is published in [Physical Review E](https://doi.org/10.1103/PhysRevE.110.L042301)!
-* **August 2024**: A Research Associate (Postdoc) position is live at [UVA Jobs](https://jobs.virginia.edu/us/en/job/R0064538/Research-Associate-in-Biology)! I'll start reviewing applications on October 15th. Please reach out with any questions.
