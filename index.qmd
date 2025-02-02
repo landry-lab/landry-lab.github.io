@@ -23,7 +23,7 @@ The Landry Lab at the University of Virginia studies **how the structure of netw
 We seek to answer questions like, How do groups change the way that information and diseases spread?
 How does the size of a group change the probability that its members will change their minds?
 How do groups form?
-Can we effective mitigate diseases if we understand the underlying connection patterns?
+Can we effectively mitigate diseases if we understand the underlying connection patterns?
 We use tools from network science, mathematical modeling, Bayesian inference, and open-source development to help answer these questions.
 
 ## Open positions
@@ -34,5 +34,7 @@ We are recruiting the following positions:
 
 ## Recent News
 
+* **January 2025**: Prof. Landry is now a [courtesy faculty member](https://datascience.virginia.edu/people/nicholas-landry) in the School of Data Science! This foster many exciting cross-school collaborations.
+* **December 2024**: We have a new member joining the Landry Lab! [Daniel Kaiser](https://www.linkedin.com/in/daniel-kaiser-4a7b55139) will be joining us as a postdoc starting August 2025! Welcome, Daniel!
 * **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
 * **October 2024**: The first publication for the Landry Lab is published in [Physical Review E](https://doi.org/10.1103/PhysRevE.110.L042301)!
