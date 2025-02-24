@@ -24,8 +24,12 @@ website:
         text: Publications
       - href: pages/software.qmd
         text: Software
-      - href: pages/people.qmd
-        text: People
+      - text: People
+        menu:
+          - text: Lab Members
+            href: pages/people.qmd
+          - text: Lab Values
+            href: pages/values.qmd
     search: true
     pinned: true
 
