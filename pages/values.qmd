@@ -1,0 +1,32 @@
+---
+title: "Lab Values"
+---
+
+<figure>
+    <img src="/assets/images/values.png" width="100%" align="center">
+    <figcaption>Attribution: <a href=https://www.sammykatta.com/>Sammy Katta</a></figcaption>
+</figure>
+[The pledge](https://www.sammykatta.com/pledge): “[This poster is] meant to show that racial justice and support for marginalized communities cannot be separated from the practice of science. We must actively work to recognize the obstacles that scientists (and potential scientists) from marginalized communities face, and dismantle structures of power that prevent them from succeeding. We must also consider the effects of our research and research choices on marginalized communities.”
+
+Our lab is a safe space for scholars of all identities and from all backgrounds.
+We believe that the **best science is done when people are part of a community which values them, advocates for them, and supports them.**
+We welcome and support all members of our community regardless of age, sex, gender identity, gender expression, sexual orientation, pregnancy, marital status, family structure, disability, ethnicity, race, religion, nationality, education, or socio-economic background.
+Our lab operates under the ethos of **prioritizing individual well-being, creative curiosity, and science without barriers.**
+
+**Individual well-being.**
+In our lab, our health comes first.
+Mental health is extremely important in making it through a PhD and being in academia in general.
+We do this by fostering a culture where we communicate our needs and, in response, adjust expectations, deadlines, and workload.
+There is a lot of "failure" in science (and life in general!) and our lab embraces it.
+We share not only our successes, but our failures as well.
+
+**Creative curiosity.**
+Our lab starts by asking "why?" and "what if?" and see where it leads.
+We aren't limited by disciplinary boundaries, but rather, widen our circle and learn from others.
+We do this by encouraging collaboration across disciplines, entertaining unconventional ideas, and seeking to understand other perspectives.
+
+**Science without barriers.**
+Our lab is committed to open science.
+This means sharing all of our code and data whenever possible.
+It means sharing our preprints of our work and getting feedback from the community.
+It means using open-source software and data resources so that everyone can access our work.
