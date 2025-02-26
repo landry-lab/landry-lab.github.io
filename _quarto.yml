@@ -24,7 +24,7 @@ website:
         text: Publications
       - href: pages/software.qmd
         text: Software
-      - text: People
+      - text: About
         menu:
           - text: Lab Members
             href: pages/people.qmd
