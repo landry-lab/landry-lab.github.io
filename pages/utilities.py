@@ -22,9 +22,9 @@ def load_publication_data(path):
     pub_strs = {"pubs": {}, "wps": {}, "theses": {}}
     for _, data in yaml_data.items():
         title_str = data["title"]
-        authors = data.get("authors", ["me"])
+        authors = data.get("authors", ["NWL"])
         authors = [
-            a if a != "me" else "<strong>Nicholas W. Landry</strong>" for a in authors
+            a if a != "NWL" else "<strong>Nicholas W. Landry</strong>" for a in authors
         ]
         author_str = readable_list(authors)
         year_str = data["year"]

@@ -1,8 +1,8 @@
-hebert-dufresne_governance_2024:
+hebert-dufresne_governance_2025:
   title: "Governance as a complex, networked, democratic, satisfiability problem"
   authors:
     - Laurent Hébert-Dufresne
-    - me
+    - NWL
     - Juniper Lovato
     - Jonathan St-Onge
     - Jean-Gabriel Young
@@ -10,14 +10,17 @@ hebert-dufresne_governance_2024:
     - Stéphane Bernatchez
     - Catherine Choquette
     - Alan A. Cohen
-  year: 2024
+  year: 2025
+  venue: npj Complexity
+  published_url: https://doi.org/10.1038/s44260-025-00041-3
+  pdf: /assets/docs/publications/2025_npjComplexity_governance.pdf
   preprint: https://arxiv.org/abs/2412.03421
   code: https://github.com/nwlandry/governance
 
 landry_theoretical_2024:
   title: "A theoretical framework for reservoir computing on networks of organic electrochemical transistors"
   authors:
-    - me
+    - NWL
     - Beckett R. Hyde
     - Jake C. Perez
     - Sean E. Shaheen
@@ -34,7 +37,7 @@ hebert-dufresne_stochastic_2024:
     - Samuel F. Rosenblatt
     - Stephanie N. Miller
     - P. Alexander Burnham
-    - me
+    - NWL
     - Nicholas J. Gotelli
     - Brian J. McGill
   year: 2024
@@ -44,7 +47,7 @@ hebert-dufresne_stochastic_2024:
 landry_reconstructing_2024:
   title: "Reconstructing networks from simple and complex contagions"
   authors:
-    - me
+    - NWL
     - Will Thompson
     - Laurent Hébert-Dufresne
     - Jean-Gabriel Young
