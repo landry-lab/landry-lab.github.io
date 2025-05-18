@@ -33,6 +33,8 @@ We are recruiting the following positions:
 **Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them. Reach out with any questions!
 
 ## Recent News
+
+* **May 2025**: The Landry Lab received a [Small Data Analytics Resource Award](https://www.rc.virginia.edu/service/dac/awards/) from the Data Analytics Center at UVA for the project titled "Analyzing large-scale social networks through the Bluesky social media platform".
 * **May 2025**: "Governance as a complex, networked, democratic, satisfiability problem" is now published in [*npj Complexity*](https://doi.org/10.1038/s44260-025-00041-3)!
 * **April 2025**: [Andy Grieve](https://www.linkedin.com/in/andrew-grieve-721718278/) was awarded an EXPAND fellowship to be co-advised by Prof. Landry (with primary advisor [Prof. Katja Kasimatis](https://bio.as.virginia.edu/people/katja-kasimatis)) to incorporate modeling into his research on sexual conflict and co-evolution. Congratulations, Andy!
 * **April 2025**: [Charlotte Greene](https://www.linkedin.com/in/charlotte-greene-400a2a174/) was awarded an EXPAND fellowship to be co-advised by Prof. Landry (with primary advisor [Prof. Butch Brodie](https://bio.as.virginia.edu/people/edmund-d-brodie-iii)) to integrate network methods to phenotype aggression and quantify behavior. Congratulations, Charlotte!
