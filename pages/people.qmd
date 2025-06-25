@@ -20,14 +20,14 @@ Nicholas Landry is an Assistant Professor in the Biology Department at the Unive
 ```
 :::
 
-## Daniel Kaiser, Postdoc (joining in August!)
+## Daniel Kaiser, Postdoc
 
 <img src="/assets/images/headshots/headshot_dkaiser.jpg" width="20%" hspace="20" align="left">
-Daniel Kaiser is an incoming postdoc in the Landry Lab.
+Daniel Kaiser is a Post-doctoral research working under the supervision of Dr. Landry. Daniel's research interests are often evolving, currently including multi-dimensional higher-order interactions and lossy compressions, the role of homophily and complemntary in hypergraph growth, and community detection in hypergraphs. He is also interested in and maintains some projects concerning efficient multi-body ranking algorithms and surprising competitive outcomes, equitable transportation infrastructure through a field theory lens, and the creation of non-polarizing recommendation systems. Before joining the Landry Lab at UVA, Daniel completed a Ph.D. in Informatics at Indiana University under the supervision of Dr. Filippo Radicchi and a B.S. in Mathematics from the University of Michigan. 
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:kaiserd@iu.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:daniel.kaiser@virginia.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://kaiser-dan.github.io/" target="_blank" rel="noopener noreferrer">
