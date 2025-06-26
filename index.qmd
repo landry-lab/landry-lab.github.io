@@ -20,10 +20,9 @@ toc: false
 ---
 
 The Landry Lab at the University of Virginia studies **how the structure of networks and groups affect the spread of diseases, information, and ideology.**
-We seek to answer questions like, How do groups change the way that information and diseases spread?
-How does the size of a group change the probability that its members will change their minds?
-How do groups form?
-Can we effectively mitigate diseases if we understand the underlying connection patterns?
+We seek to answer questions like, How do groups change the way that contagion spreads?
+How do groups form and fracture?
+How can we use knowledge of the underlying structure of groups to effectively mitigate and optimize the spread of contagion?
 We use tools from network science, mathematical modeling, Bayesian inference, and open-source development to help answer these questions.
 
 ## Open positions
@@ -34,6 +33,9 @@ We are recruiting the following positions:
 
 ## Recent News
 
+* **August 2025**: Abhay Gupta joins the Landry Lab as a PhD student. Welcome, Abhay!
+* **June 2025**: Ahmed Ahmed joined the Landry Lab co-advised by [Baltazar Espinoza](https://scholar.google.com/citations?hl=en&user=ovg94mcAAAAJ) through the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) summer internship program hosted by the Biocomplexity Institute. Welcome, Ahmed!
+* **June 2025**: Prof. Landry attended [NetSci 2025](https://netsci2025.github.io) in Maastricht, NL, where he organized the [Software and Data for Supporting Network Science](https://netsci.nascol.net/) satellite workshop and presented work on sampling from the hypergraph configuration model.
 * **May 2025**: New preprint on the arXiv! ["A Blue Start: A large-scale pairwise and higher-order social network dataset"](https://arxiv.org/abs/2505.11608) in collaboration with [Alyssa Smith](https://asmithh.github.io/), [Ilya Amburg](https://sites.google.com/site/ilyaamburg1/home), [Sagar Kumar](https://www.sagarkumar.net/), and [Brooke Foucault Welles](https://brooke-welles.squarespace.com/)!
 * **May 2025**: The Landry Lab received a [Small Data Analytics Resource Award](https://www.rc.virginia.edu/service/dac/awards/) from the Data Analytics Center at UVA for the project titled "Analyzing large-scale social networks through the Bluesky social media platform".
 * **May 2025**: "Governance as a complex, networked, democratic, satisfiability problem" is now published in [*npj Complexity*](https://doi.org/10.1038/s44260-025-00041-3)!
