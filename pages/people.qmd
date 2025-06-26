@@ -42,7 +42,7 @@ Daniel's research interests are often evolving, currently including multi-dimens
 
 ## Andy Grieve, PhD Student
 
-<img src="/assets/images/headshots/headshot_agrieve.png" width="20%" hspace="20" align="left">
+<img src="/assets/images/headshots/headshot_agrieve.jpg" width="20%" hspace="20" align="left">
 Andy is a 2nd year Ph.D. student in the [Kasimatis Lab](https://conflictgenomics.com/) studying sexual conflict. He is an EXPAND fellow for the 2025-2026 academic year, co-advised by Prof. Landry. He is interested in how sexes share autosomal genetic material, but experience differentiated phenotypes. His studies focus on sexual conflict, and the molecular mechanisms that can reduce sexual conflict. Outside of the lab Andy enjoys trail running, rock climbing, and reading.
 
 ::: {.column-page-inset .text-center}
