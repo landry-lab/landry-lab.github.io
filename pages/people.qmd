@@ -40,6 +40,22 @@ Daniel's research interests are often evolving, currently including multi-dimens
 
 ## Charlotte Greene, PhD Student
 
+<img src="/assets/images/headshots/headshot_cgreene.jpg" width="20%" hspace="20" align="left">
+Charlotte is as evolutionary biology and behavioral ecology PhD candidate being co-advised by Prof. Landry and Butch Brodie. They study environmental drivers of variation in sexual selection across space and time. Their work primarily focuses on the role of population demographics, age, and behavior in the evolution of weaponry in male forked fungus beetles. Charlotte is excited about expanding their research to apply contagion-based computational approaches to studying aggression and social behaviors. When not staring at beetles, Charlotte most enjoys running, dancing, and reading.
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:buk3nk@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/charlotte-greene-400a2a174/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+</a>
+<br>
+<br>
+```
+:::
+
 ## Andy Grieve, PhD Student
 
 <img src="/assets/images/headshots/headshot_agrieve.jpg" width="20%" hspace="20" align="left">
