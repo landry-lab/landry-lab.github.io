@@ -78,11 +78,8 @@ Andy is a 2nd year Ph.D. student in the [Kasimatis Lab](https://conflictgenomics
 
 <img src="/assets/images/headshots/headshot_agupta.jpg" width="20%" hspace="20" align="left">
 I come from Delhi, India—a city full of energy and diversity. I completed my Master’s in Biology, during which I developed a strong interest in studying the evolution of adaptations using theoretical and computational approaches.  
-
 My research so far has explored topics like sexual conflict, sexual convolution, cancer systems, and the evolution of sex-biased cooperation. Moving forward, I’m excited to expand my work during my PhD, combining both wet and dry lab methods to tackle questions in evolution and ecology. One area I’m particularly curious about is the evolution of contagion spread—whether in pathogens or ideas—exploring how opinions or diseases propagate within communities and eventually develop strategies to combat this spread (for the diseases).
-
 Outside the lab, you’ll find me deep into either video or board games, hunting for the best coffee and beer spots, or exploring cities and nature. I’m always up for a chat about evolutionary theories over a cold brew or a round of Avalon!  
-
 I’m looking forward to joining the lab, learning from everyone, and contributing to meaningful research!
 
 ::: {.column-page-inset .text-center}
@@ -99,5 +96,6 @@ I’m looking forward to joining the lab, learning from everyone, and contributi
 
 <img src="/assets/images/headshots/headshot_aahmed.jpg" width="20%" hspace="20" align="left">
 Ahmed Ahmed is an upcoming fourth-year undergraduate student at the University of Virginia majoring in Biology with a minor in Data Science. He is broadly interested in genomics, bioinformatics, and the use of computational modeling to study biological systems. Ahmed is currently interning at the Biocomplexity Institute, where he works on simulating the spread of infectious disease variants using compartmental models. Outside of academics, Ahmed enjoys playing volleyball and soccer, weightlifting, and developing data visualization tools like his recent patient-focused Shiny app.
+
 
 Are you interested in any of the lab's [research areas](research.qmd)? If so, reach out to nicholas.landry@virginia.edu!
