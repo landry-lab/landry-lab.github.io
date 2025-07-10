@@ -2,6 +2,69 @@
 title: "Lab members"
 ---
 
+
+## Timeline
+```{=html}
+  <style>
+    .bar { fill: steelblue; }
+    .axis-label, .tick text {
+        font-size: 14px;
+    }
+  </style>
+  <svg viewBox="0 0 800 300" preserveAspectRatio="xMinYMin meet" width="100%"></svg>
+  <script>
+    const container = d3.select("svg").node().parentNode;
+    const svgWidth = container.getBoundingClientRect().width;
+    const svgHeight = 300;
+
+    const svg = d3.select("svg")
+    const margin = {top: 25, right: 0, bottom: 0, left: 125};
+    const width = svgWidth - margin.left - margin.right;
+    const height = svgHeight - margin.top - margin.bottom;
+    const chart = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+
+    d3.json("members.json").then(data => {
+      // Parse dates
+      data.forEach(d => {
+        d.start = new Date(d.start);
+        d.end = d.end === "now" ? new Date() : new Date(d.end);
+      });
+
+      // Scales
+      const x = d3.scaleTime()
+        .domain([d3.min(data, d => d.start), d3.max(data, d => d.end)])
+        .range([0, width]);
+
+      const y = d3.scaleBand()
+        .domain(data.map(d => d.name))
+        .range([0, height])
+        .padding(0.2);
+
+      // Axes
+      chart.append("g")
+        .call(d3.axisLeft(y));
+
+      chart.append("g")
+        .call(d3.axisTop(x)
+        .ticks(d3.timeMonth.every(1))
+        .tickFormat(d3.timeFormat("%b %Y")))
+        .selectAll("text")
+        // .attr("transform", "rotate(-45)")
+        .style("text-anchor", "center");
+
+      // Bars
+      chart.selectAll("rect")
+        .data(data)
+        .join("rect")
+        .attr("class", "bar")
+        .attr("y", d => y(d.name))
+        .attr("x", d => x(d.start))
+        .attr("width", d => x(d.end) - x(d.start))
+        .attr("height", y.bandwidth());
+    });
+  </script>
+```
+
 ## Nicholas Landry, PI
 
 <img src="/assets/images/headshots/headshot_nwlandry.jpg" width="20%" hspace="20" align="left">
