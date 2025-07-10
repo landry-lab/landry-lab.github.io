@@ -140,7 +140,7 @@ Andy is a 2nd year Ph.D. student in the [Kasimatis Lab](https://conflictgenomics
 ## Abhay Gupta, PhD Student
 
 <img src="/assets/images/headshots/headshot_agupta.jpg" width="20%" hspace="20" align="left">
-I come from Delhi, India—a city full of energy and diversity. I completed my Master’s in Biology, during which I developed a strong interest in studying the evolution of adaptations using theoretical and computational approaches.  
+I come from Delhi, India---a city full of energy and diversity. I completed my Master’s in Biology, during which I developed a strong interest in studying the evolution of adaptations using theoretical and computational approaches.  
 My research so far has explored topics like sexual conflict, sexual convolution, cancer systems, and the evolution of sex-biased cooperation. Moving forward, I’m excited to expand my work during my PhD, combining both wet and dry lab methods to tackle questions in evolution and ecology. One area I’m particularly curious about is the evolution of contagion spread—whether in pathogens or ideas—exploring how opinions or diseases propagate within communities and eventually develop strategies to combat this spread (for the diseases).
 Outside the lab, you’ll find me deep into either video or board games, hunting for the best coffee and beer spots, or exploring cities and nature. I’m always up for a chat about evolutionary theories over a cold brew or a round of Avalon!  
 I’m looking forward to joining the lab, learning from everyone, and contributing to meaningful research!
