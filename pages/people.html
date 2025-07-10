@@ -69,6 +69,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<script src="https://d3js.org/d3.v7.min.js"></script>
 
 
 <meta property="og:title" content="Lab members – The Landry Lab">
@@ -141,7 +142,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nicholas-landry-pi" id="toc-nicholas-landry-pi" class="nav-link active" data-scroll-target="#nicholas-landry-pi">Nicholas Landry, PI</a></li>
+  <li><a href="#timeline" id="toc-timeline" class="nav-link active" data-scroll-target="#timeline">Timeline</a></li>
+  <li><a href="#nicholas-landry-pi" id="toc-nicholas-landry-pi" class="nav-link" data-scroll-target="#nicholas-landry-pi">Nicholas Landry, PI</a></li>
   <li><a href="#daniel-kaiser-postdoc" id="toc-daniel-kaiser-postdoc" class="nav-link" data-scroll-target="#daniel-kaiser-postdoc">Daniel Kaiser, Postdoc</a></li>
   <li><a href="#charlotte-greene-phd-student" id="toc-charlotte-greene-phd-student" class="nav-link" data-scroll-target="#charlotte-greene-phd-student">Charlotte Greene, PhD Student</a></li>
   <li><a href="#andy-grieve-phd-student" id="toc-andy-grieve-phd-student" class="nav-link" data-scroll-target="#andy-grieve-phd-student">Andy Grieve, PhD Student</a></li>
@@ -173,6 +175,67 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="timeline" class="level2">
+<h2 class="anchored" data-anchor-id="timeline">Timeline</h2>
+  <style>
+    .bar { fill: steelblue; }
+    .axis-label, .tick text {
+        font-size: 14px;
+    }
+  </style>
+  <svg viewbox="0 0 800 300" preserveaspectratio="xMinYMin meet" width="100%"></svg>
+  <script>
+    const container = d3.select("svg").node().parentNode;
+    const svgWidth = container.getBoundingClientRect().width;
+    const svgHeight = 300;
+
+    const svg = d3.select("svg")
+    const margin = {top: 25, right: 0, bottom: 0, left: 125};
+    const width = svgWidth - margin.left - margin.right;
+    const height = svgHeight - margin.top - margin.bottom;
+    const chart = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+
+    d3.json("members.json").then(data => {
+      // Parse dates
+      data.forEach(d => {
+        d.start = new Date(d.start);
+        d.end = d.end === "now" ? new Date() : new Date(d.end);
+      });
+
+      // Scales
+      const x = d3.scaleTime()
+        .domain([d3.min(data, d => d.start), d3.max(data, d => d.end)])
+        .range([0, width]);
+
+      const y = d3.scaleBand()
+        .domain(data.map(d => d.name))
+        .range([0, height])
+        .padding(0.2);
+
+      // Axes
+      chart.append("g")
+        .call(d3.axisLeft(y));
+
+      chart.append("g")
+        .call(d3.axisTop(x)
+        .ticks(d3.timeMonth.every(1))
+        .tickFormat(d3.timeFormat("%b %Y")))
+        .selectAll("text")
+        // .attr("transform", "rotate(-45)")
+        .style("text-anchor", "center");
+
+      // Bars
+      chart.selectAll("rect")
+        .data(data)
+        .join("rect")
+        .attr("class", "bar")
+        .attr("y", d => y(d.name))
+        .attr("x", d => x(d.start))
+        .attr("width", d => x(d.end) - x(d.start))
+        .attr("height", y.bandwidth());
+    });
+  </script>
+</section>
 <section id="nicholas-landry-pi" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="nicholas-landry-pi">Nicholas Landry, PI</h2>
 <p><img src="../assets/images/headshots/headshot_nwlandry.jpg" width="20%" hspace="20" align="left"> Nicholas Landry is an Assistant Professor in the Biology Department at the University of Virginia. Nicholas is interested in the way that group interactions affect the dynamics of contagion spread, the structure of higher-order social systems, using data to inform mathematical models, and open-source software. Nicholas is one of the founding members of the XGI project, a software package for analyzing, modeling, and visualizing higher-order networks. Nicholas Landry was the TGIR Postdoctoral Research Fellow in the Vermont Complex Systems Center at the University of Vermont. Prior to his position at UVM, he completed a Ph.D.&nbsp;in Applied Mathematics at the University of Colorado Boulder. Nicholas also obtained a B.S. in Mechanical Engineering at the University of New Hampshire and worked as an engineer at a manufacturing company in Seacoast New Hampshire.</p>
