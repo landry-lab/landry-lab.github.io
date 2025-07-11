@@ -12,6 +12,7 @@ title: "Lab members"
     }
   </style>
   <svg viewBox="0 0 800 300" preserveAspectRatio="xMinYMin meet" width="100%"></svg>
+  <div id="tooltip" style="position: absolute; opacity: 0; background: white; border: 1px solid #ccc; padding: 6px 10px; border-radius: 4px; font-size: 13px; pointer-events: none;"></div>
   <script>
     const container = d3.select("svg").node().parentNode;
     const svgWidth = container.getBoundingClientRect().width;
@@ -52,6 +53,7 @@ title: "Lab members"
         // .attr("transform", "rotate(-45)")
         .style("text-anchor", "center");
 
+      const tooltip = d3.select("#tooltip");
       // Bars
       chart.selectAll("rect")
         .data(data)
@@ -60,7 +62,19 @@ title: "Lab members"
         .attr("y", d => y(d.name))
         .attr("x", d => x(d.start))
         .attr("width", d => x(d.end) - x(d.start))
-        .attr("height", y.bandwidth());
+        .attr("height", y.bandwidth())
+        .on("mouseover", (event, d) => {
+          const format = d3.timeFormat("%b %d, %Y");
+          tooltip.transition().duration(200).style("opacity", 0.95);
+          tooltip.html(`<strong>${d.name}</strong><br>${format(d.start)} → ${format(d.end)}`);
+        })
+        .on("mousemove", event => {
+          tooltip.style("left", (event.pageX + 10) + "px")
+                .style("top", (event.pageY - 28) + "px");
+        })
+        .on("mouseout", () => {
+          tooltip.transition().duration(200).style("opacity", 0);
+        });
     });
   </script>
 ```
