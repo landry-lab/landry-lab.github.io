@@ -43,7 +43,7 @@ title: "Lab members"
     const fullWidth = container.clientWidth;
     const fullHeight = 300;
 
-    const margin = { top: 0, right: 0, bottom: 0, left: 125};
+    const margin = { top: 30, right: 0, bottom: 0, left: 125};
     const width = fullWidth - margin.left - margin.right;
     const height = fullHeight - margin.top - margin.bottom;
 
