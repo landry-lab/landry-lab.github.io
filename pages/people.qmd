@@ -34,14 +34,7 @@ title: "Lab members"
 
   <div id="tooltip"></div>
 
-  <script src="https://d3js.org/d3.v7.min.js"></script>
   <script>
-  const rawData = [
-    { name: "Alice", start: "2022-01-01", end: "2024-08-01" },
-    { name: "Bob", start: "2023-06-15", end: "now" },
-    { name: "Charlie", start: "2024-01-10", end: "2025-07-01" }
-  ];
-
   function renderChart() {
     const container = document.getElementById("chart-container");
     const svg = d3.select("#timeline-chart");
@@ -50,7 +43,7 @@ title: "Lab members"
     const fullWidth = container.clientWidth;
     const fullHeight = 300;
 
-    const margin = { top: 60, right: 30, bottom: 30, left: 120};
+    const margin = { top: 0, right: 0, bottom: 0, left: 125};
     const width = fullWidth - margin.left - margin.right;
     const height = fullHeight - margin.top - margin.bottom;
 
