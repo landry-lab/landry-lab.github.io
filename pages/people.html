@@ -265,7 +265,7 @@ ul.task-list li input[type="checkbox"] {
           .attr("width", d => x(d.end) - x(d.start))
           .attr("height", y.bandwidth())
           .on("mouseover", (event, d) => {
-            const format = d3.timeFormat("%b %d, %Y");
+            const format = d3.utcFormat("%b %d, %Y");
             tooltip.transition().duration(200).style("opacity", 0.95);
             tooltip.html(`<strong>${d.name}</strong><br>${format(d.start)} → ${format(d.end)}`);
           })
