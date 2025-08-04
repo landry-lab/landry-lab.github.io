@@ -228,9 +228,8 @@ ul.task-list li input[type="checkbox"] {
     d3.json("members.json").then(data => {
         // Parse dates
         data.forEach(d => {
-          d.start = new Date(d.start, {timeZone: 'America/New_York'});
-          d.end = d.end === "now" ? new Date() : new Date(d.end, {timeZone: 'America/New_York'});
-          console.log(d.start, d.end)
+          d.start = new Date(d.start);
+          d.end = d.end === "now" ? new Date() : new Date(d.end);
         });
 
         // Scales
@@ -266,7 +265,7 @@ ul.task-list li input[type="checkbox"] {
           .attr("width", d => x(d.end) - x(d.start))
           .attr("height", y.bandwidth())
           .on("mouseover", (event, d) => {
-            const format = d3.timeFormat("%b %d, %Y");
+            const format = d3.utcFormat("%b %d, %Y");
             tooltip.transition().duration(200).style("opacity", 0.95);
             tooltip.html(`<strong>${d.name}</strong><br>${format(d.start)} → ${format(d.end)}`);
           })
