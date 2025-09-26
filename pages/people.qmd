@@ -99,6 +99,24 @@ I’m looking forward to joining the lab, learning from everyone, and contributi
 ```
 :::
 
+## Kuankuan Hu, PhD Student
+
+<img src="/assets/images/headshots/headshot_khu.jpg" width="20%" hspace="20" align="left">
+Kuankuan Hu is a graduate student in the lab. She received her BA in Biology from Bryn Mawr College. Kuankuan is interested in the maintenance of intralocus sexual conflict and the evolution of sex-biased gene networks. Her research integrates evolutionary modeling with empirical data. When Kuankuan is away from the lab, she enjoys dancing, crafting, and reading.
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:ugw2aa@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/kuankuan-hu-77a9b621a/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+</a>
+<br>
+<br>
+```
+:::
+
 ## You?
 
 Are you interested in any of the lab's [research areas](research.qmd)? If so, reach out to nicholas.landry@virginia.edu!
