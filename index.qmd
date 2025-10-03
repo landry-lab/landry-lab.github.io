@@ -33,6 +33,7 @@ We are recruiting the following positions:
 
 ## Recent News
 
+* **October 2025**: Abhay, Andy, Charlotte, and Kuankuan are all at [SEPEEG 2025](https://sepeeg2025.blogspot.com)!
 * **October 2025**: Laurent Hébert-Dufresne and I wrote a news article for SIAM News on doing group science with XGI. Read it [here](https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/)!
 * **September 2025**: New article published! [Stochastic diffusion with approximate master equations with mean-field limits](https://doi.org/10.1098/rsos.250726) out in Royal Society Open Science!
 * **August 2025**: Kuankuan Hu rotates with the Landry Lab as a PhD student. Welcome, Kuankuan!
