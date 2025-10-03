@@ -1,3 +1,14 @@
+landry_group_2025:
+  title: "Group Science: The Open Source Study of Higher-order Networks With XGI"
+  authors:
+    - NWL
+    - Laurent Hébert-Dufresne
+  year: 2025
+  venue: SIAM News
+  published_url: https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/
+  pdf: /assets/docs/publications/2025_SIAMNews_group.pdf
+  code: https://github.com/nwlandry/group-science-siam-news
+
 hebert-dufresne_stochastic_2025:
   title: "Stochastic diffusion with approximate master equations with mean-field limits"
   authors:

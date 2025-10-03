@@ -33,6 +33,8 @@ We are recruiting the following positions:
 
 ## Recent News
 
+* **October 2025**: Laurent Hébert-Dufresne and I wrote a news article for SIAM News on doing group science with XGI. Read it [here](https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/)!
+* **September 2025**: New article published! [Stochastic diffusion with approximate master equations with mean-field limits](https://doi.org/10.1098/rsos.250726) out in Royal Society Open Science!
 * **August 2025**: Kuankuan Hu rotates with the Landry Lab as a PhD student. Welcome, Kuankuan!
 * **August 2025**: Abhay Gupta joins the Landry Lab as a PhD student. Welcome, Abhay!
 * **July 2025**: Ahmed presented a poster at the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) poster session. Congrats, Ahmed!
@@ -48,6 +50,5 @@ We are recruiting the following positions:
 * **January 2025**: Prof. Landry is now a [courtesy faculty member](https://datascience.virginia.edu/people/nicholas-landry) in the School of Data Science! This will foster many exciting cross-school collaborations.
 * **December 2024**: We have a new member joining the Landry Lab! [Daniel Kaiser](https://www.linkedin.com/in/daniel-kaiser-4a7b55139) will be joining us as a postdoc starting August 2025! Welcome, Daniel!
 * **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
-* **October 2024**: The first publication for the Landry Lab is published in [Physical Review E](https://doi.org/10.1103/PhysRevE.110.L042301)!
 
 [Older news](news.qmd)
