@@ -1,0 +1,11 @@
+---
+title: "Open Positions"
+---
+
+## Prospective PhD Students
+
+If you are a prospective PhD student considering UVA Biology and interested in modeling the spread of diseases, information, or ideologies from a network science perspective, please email Prof. Landry directly with a subject line of "Prospective PhD Student" and include a brief description of your past and current research interests and your CV.
+
+## UVA Undergraduate Students
+
+If you are an undergraduate student and are excited about doing research on contagion spreading on complex networks, email Prof. Landry directly with a subject line of "Undergraduate Research Student at UVA" and include your CV and a description of your interests.
