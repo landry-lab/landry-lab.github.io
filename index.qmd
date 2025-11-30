@@ -25,6 +25,20 @@ How do groups form and fracture?
 How can we use knowledge of the underlying structure of groups to effectively mitigate and optimize the spread of contagion?
 We use tools from network science, mathematical modeling, Bayesian inference, and open-source development to help answer these questions.
 
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:nicholas.landry@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://github.com/landry-lab" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i> Github
+</a>
+<br>
+<br>
+```
+:::
+
 ## Open positions
 
 We are recruiting the following positions:
