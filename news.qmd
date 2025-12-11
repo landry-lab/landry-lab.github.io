@@ -2,5 +2,7 @@
 title: "Older news"
 ---
 
+* **December 2024**: We have a new member joining the Landry Lab! [Daniel Kaiser](https://www.linkedin.com/in/daniel-kaiser-4a7b55139) will be joining us as a postdoc starting August 2025! Welcome, Daniel!
+* **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
 * **October 2024**: The first publication for the Landry Lab is published in [Physical Review E](https://doi.org/10.1103/PhysRevE.110.L042301)!
 * **August 2024**: The Landry Lab is established at the University of Virginia.
