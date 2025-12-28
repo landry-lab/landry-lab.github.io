@@ -1,0 +1,15 @@
+---
+title: "Gallery"
+---
+
+## End-of-year party 2025
+
+![](/assets/images/gallery/2025-12-12_party.jpg)
+
+## Halloween 2025
+
+![](/assets/images/gallery/2025-10-30_halloween.jpg)
+
+## Lab hike 2025
+
+![](/assets/images/gallery/2025-09-01_hike.jpg)
