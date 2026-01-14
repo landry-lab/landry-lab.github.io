@@ -94,28 +94,19 @@ I’m looking forward to joining the lab, learning from everyone, and contributi
 <a class="btn btn-outline-dark", href="mailto:msf5fk@virginia.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
-<br>
-<br>
-```
-:::
-
-## Kuankuan Hu, PhD Student
-
-<img src="/assets/images/headshots/headshot_khu.jpg" width="20%" hspace="20" align="left">
-Kuankuan Hu is a graduate student in the lab. She received her BA in Biology from Bryn Mawr College. Kuankuan is interested in the maintenance of intralocus sexual conflict and the evolution of sex-biased gene networks. Her research integrates evolutionary modeling with empirical data. When Kuankuan is away from the lab, she enjoys dancing, crafting, and reading.
-
-::: {.column-page-inset .text-center}
-```{=html}
-<a class="btn btn-outline-dark", href="mailto:ugw2aa@virginia.edu" target="_blank" rel="noopener noreferrer">
-    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
-</a>
-<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/kuankuan-hu-77a9b621a/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+<a class="btn btn-outline-dark", href="https://abhaygupta115.com" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-globe" role='img' aria-label='Website'></i> Website
 </a>
 <br>
 <br>
 ```
 :::
+
+## Rudra Dave, Undergraduate Student
+
+## Gelila Solomon, Undergraduate Student
+
+## Tyler Long, Undergraduate Student
 
 ## You?
 
@@ -126,3 +117,4 @@ Are you interested in any of the lab's [research areas](research.qmd)? If so, re
 ### Undergraduate
 
 * Ahmed Ahmed, Summer 2025
+* Kuankuan Hu, PhD Student, Fall 2025
