@@ -116,6 +116,9 @@ Rudra Dave is a second-year undergraduate majoring in Data Science on the pre-me
 
 ## Tyler Long, Undergraduate Student
 
+<img src="/assets/images/headshots/headshot_tlong.jpg" width="20%" hspace="20" align="left">
+Tyler Long is a first-year undergraduate pursuing a B.S. in Statistics. She is interested in the evolution of networks and the spread of information through social media, with future plans to apply this work to the study of diseases and pathogen spread. Outside of the lab, Tyler enjoys drawing and improving her personal record solving a Rubik’s cube.
+
 ## You?
 
 Are you interested in any of the lab's [research areas](research.qmd)? If so, reach out to nicholas.landry@virginia.edu!
