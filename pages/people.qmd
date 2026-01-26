@@ -45,6 +45,19 @@ Daniel's research interests are often evolving, currently including multi-dimens
 <img src="/assets/images/headshots/headshot_acraft.jpg" width="20%" hspace="20" align="left">
 I am a neuroscience Ph.D. student in the Larson Lab, co-advised by Professor Landry, where I study neuroplasticity in songbirds. My research explores how bird song is learned, engrained, and transmitted across sub-populations throughout the United States. I am currently working to incorporate computational methods to compare biological vocal learning in birds with modeled systems to understand larger principles of not only communication but plasticity. Outside of the lab I enjoy cafe-hopping and reading.
 
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:prf3cd@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/ariana-craft-33215a2ba/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+</a>
+<br>
+<br>
+```
+:::
+
 ## Charlotte Greene, PhD Student
 
 <img src="/assets/images/headshots/headshot_cgreene.jpg" width="20%" hspace="20" align="left">
@@ -107,10 +120,36 @@ I’m looking forward to joining the lab, learning from everyone, and contributi
 <img src="/assets/images/headshots/headshot_mleonard.jpg" width="20%" hspace="20" align="left">
 Michael Leonard is a PhD student in Dr. Amanda Gibson’s Lab. He earned his B.S. in Biology from Rensselaer Polytechnic Institute in 2024, where he studied predator-prey interactions and how freshwater salinization shapes phenotypic plasticity in amphibians. Michael joined the Landry Lab in the Spring of 2025 and is broadly interested in studying host-parasite interactions, with a focus on the evolution of parasite-driven dispersal.
 
-## Rudra Dave, Undergraduate Student
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:sup6cm@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/michael-leonard-b51bb8241/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+</a>
+<br>
+<br>
+```
+:::
+
+## Rudra Davé, Undergraduate Student
 
 <img src="/assets/images/headshots/headshot_rdave.jpg" width="20%" hspace="20" align="left">
 Rudra Dave is a second-year undergraduate majoring in Data Science on the pre-med track. He is particularly interested in understanding how diseases and ideas spread through networks, with a focus on group interactions. He uses Python tools, including XGI, to model these dynamics using higher-order networks.
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:jbd7qp@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/rudra101/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+</a>
+<br>
+<br>
+```
+:::
 
 ## Gelila Solomon, Undergraduate Student
 
@@ -118,6 +157,16 @@ Rudra Dave is a second-year undergraduate majoring in Data Science on the pre-me
 
 <img src="/assets/images/headshots/headshot_tlong.jpg" width="20%" hspace="20" align="left">
 Tyler Long is a first-year undergraduate pursuing a B.S. in Statistics. She is interested in the evolution of networks and the spread of information through social media, with future plans to apply this work to the study of diseases and pathogen spread. Outside of the lab, Tyler enjoys drawing and improving her personal record solving a Rubik’s cube.
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:uyh6uv@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<br>
+<br>
+```
+:::
 
 ## You?
 
