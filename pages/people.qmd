@@ -170,7 +170,7 @@ Tyler Long is a first-year undergraduate pursuing a B.S. in Statistics. She is i
 
 ## You?
 
-Are you interested in any of the lab's [research areas](research.qmd)? If so, reach out to nicholas.landry@virginia.edu!
+Are you interested in any of the lab's [research areas](research.qmd)? If so, see our [open positions](open_positions.qmd) page!
 
 ## Lab Alumni
 
