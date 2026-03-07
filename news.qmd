@@ -2,6 +2,7 @@
 title: "Older news"
 ---
 
+* **March 2025**: [Abhay Gupta](https://bsky.app/profile/abhay-gupta.bsky.social) joining the Landry Lab in August 2025! Welcome, Abhay!
 * **January 2025**: Prof. Landry is now a [courtesy faculty member](https://datascience.virginia.edu/people/nicholas-landry) in the School of Data Science! This will foster many exciting cross-school collaborations.
 * **December 2024**: We have a new member joining the Landry Lab! [Daniel Kaiser](https://www.linkedin.com/in/daniel-kaiser-4a7b55139) will be joining us as a postdoc starting August 2025! Welcome, Daniel!
 * **December 2024**: New [preprint](https://arxiv.org/abs/2412.03421) on the structure of effective governance is now posted!
