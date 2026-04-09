@@ -53,6 +53,7 @@ We are always open to collaboration as well, so reach out if you're interested!
 * **July 2026**: Daniel Kaiser will be at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
 * **June 2026**: The Landry Lab will be at [NetSci 2026](https://www.netsci2026.com/) in Boston! Daniel Kaiser will be presenting a poster on information spreading on Bluesky and Abhay Gupta will be presenting a talk on heterogeneous susceptibility and infectiousness on networks.
 * **May 2026**: Prof. Landry will be giving a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.
+* **April 2026**: ["A Blue Start: A large-scale pairwise and higher-order social network dataset"](https://doi.org/10.1038/s41597-026-06920-1) is now published in Scientific Data!
 * **March 2026**: We have two new PhD candidates in the house! Congratulations, Andy Grieve and Ariana Craft!
 * **March 2026**: New preprint posted! [Higher-order interactions at scientific conferences influence team formation](https://arxiv.org/abs/2603.02571) in collaboration with [Emma Zajdela](https://sites.northwestern.edu/emmazajdela/).
 * **February 2026**: Tyler Long received a College Science Scholars stipend to support summer research in the Landry Lab. Congratulations, Tyler!
