@@ -2,6 +2,24 @@
 title: "Gallery"
 ---
 
+## Dance recital 2026
+
+![](/assets/images/gallery/2026-03-18_recital.jpg)
+
+## Baseball game 2026
+
+![](/assets/images/gallery/2026-03-13_baseball_game.jpg)
+
+## Lab retreat 2026
+
+::: {#retreat layout-ncol=3}
+![](/assets/images/gallery/2026-01-06_lab_retreat.jpg)
+
+![](/assets/images/gallery/2026-01-06_lab_retreat2.jpg)
+
+![](/assets/images/gallery/2026-01-07_lab_retreat.jpg)
+:::
+
 ## End-of-year party 2025
 
 ![](/assets/images/gallery/2025-12-12_party.jpg)
