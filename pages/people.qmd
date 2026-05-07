@@ -115,24 +115,6 @@ I’m looking forward to joining the lab, learning from everyone, and contributi
 ```
 :::
 
-## Michael Leonard, PhD Student
-
-<img src="/assets/images/headshots/headshot_mleonard.jpg" width="20%" hspace="20" align="left">
-Michael Leonard is a PhD student in Dr. Amanda Gibson’s Lab. He earned his B.S. in Biology from Rensselaer Polytechnic Institute in 2024, where he studied predator-prey interactions and how freshwater salinization shapes phenotypic plasticity in amphibians. Michael joined the Landry Lab in the Spring of 2025 and is broadly interested in studying host-parasite interactions, with a focus on the evolution of parasite-driven dispersal.
-
-::: {.column-page-inset .text-center}
-```{=html}
-<a class="btn btn-outline-dark", href="mailto:sup6cm@virginia.edu" target="_blank" rel="noopener noreferrer">
-    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
-</a>
-<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/michael-leonard-b51bb8241/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
-</a>
-<br>
-<br>
-```
-:::
-
 ## Rudra Davé, Undergraduate Student
 
 <img src="/assets/images/headshots/headshot_rdave.jpg" width="20%" hspace="20" align="left">
@@ -192,5 +174,6 @@ Are you interested in any of the lab's [research areas](research.qmd)? If so, se
 
 ### Undergraduate
 
-* Ahmed Ahmed, Summer 2025
+* Michael Leonard, PhD Student, Spring 2026
 * Kuankuan Hu, PhD Student, Fall 2025
+* Ahmed Ahmed, Summer 2025
