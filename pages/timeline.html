@@ -247,10 +247,7 @@ ul.task-list li input[type="checkbox"] {
         chart.append("g")
           .call(d3.axisTop(x)
           .ticks(d3.timeMonth.every(1))
-          .tickFormat(d3.timeFormat("%b %Y")))
-          .selectAll("text")
-          // .attr("transform", "rotate(-45)")
-          .style("text-anchor", "center");
+          .tickFormat(""));
 
         const tooltip = d3.select("#tooltip");
         // Bars
