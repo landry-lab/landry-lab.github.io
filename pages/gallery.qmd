@@ -2,6 +2,10 @@
 title: "Gallery"
 ---
 
+## End-of-semester party Spring 2026
+
+![](/assets/images/gallery/2026-05-03_party.jpg)
+
 ## Dance recital 2026
 
 ![](/assets/images/gallery/2026-03-18_recital.jpg)
@@ -20,7 +24,7 @@ title: "Gallery"
 ![](/assets/images/gallery/2026-01-07_lab_retreat.jpg)
 :::
 
-## End-of-year party 2025
+## End-of-semester party Fall 2025
 
 ![](/assets/images/gallery/2025-12-12_party.jpg)
 

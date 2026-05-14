@@ -52,7 +52,8 @@ We are always open to collaboration as well, so reach out if you're interested!
 
 * **July 2026**: Daniel Kaiser will be at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
 * **June 2026**: The Landry Lab will be at [NetSci 2026](https://www.netsci2026.com/) in Boston! Daniel Kaiser will be presenting a poster on information spreading on Bluesky and Abhay Gupta will be presenting a talk on heterogeneous susceptibility and infectiousness on networks.
-* **May 2026**: Prof. Landry will be giving a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.
+* **May 2026**: New lab preprint out! [The interplay of network structure and correlated infectious traits in epidemic models](https://arxiv.org/abs/2605.12773) by Abhay and Prof. Landry. Check it out!
+* **May 2026**: Prof. Landry gave a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.
 * **April 2026**: The Landry Lab hosted [Alyssa Smith](https://asmithh.github.io/) for a few days to talk about science!
 * **April 2026**: ["A Blue Start: A large-scale pairwise and higher-order social network dataset"](https://doi.org/10.1038/s41597-026-06920-1) is now published in Scientific Data!
 * **March 2026**: We have two new PhD candidates in the house! Congratulations, Andy Grieve and Ariana Craft!
@@ -71,8 +72,5 @@ We are always open to collaboration as well, so reach out if you're interested!
 * **July 2025**: Ahmed presented a poster at the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) poster session. Congrats, Ahmed!
 * **June 2025**: Ahmed Ahmed joined the Landry Lab co-advised by [Baltazar Espinoza](https://scholar.google.com/citations?hl=en&user=ovg94mcAAAAJ) through the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) summer internship program hosted by the Biocomplexity Institute. Welcome, Ahmed!
 * **June 2025**: Prof. Landry attended [NetSci 2025](https://netsci2025.github.io) in Maastricht, NL, where he organized the [Software and Data for Supporting Network Science](https://netsci.nascol.net/) satellite workshop and presented work on sampling from the hypergraph configuration model.
-* **May 2025**: New preprint on the arXiv! ["A Blue Start: A large-scale pairwise and higher-order social network dataset"](https://arxiv.org/abs/2505.11608) in collaboration with [Alyssa Smith](https://asmithh.github.io/), [Ilya Amburg](https://sites.google.com/site/ilyaamburg1/home), [Sagar Kumar](https://www.sagarkumar.net/), and [Brooke Foucault Welles](https://brooke-welles.squarespace.com/)!
-* **May 2025**: The Landry Lab received a [Small Data Analytics Resource Award](https://www.rc.virginia.edu/service/dac/awards/) from the Data Analytics Center at UVA for the project titled "Analyzing large-scale social networks through the Bluesky social media platform".
-* **May 2025**: "Governance as a complex, networked, democratic, satisfiability problem" is now published in [*npj Complexity*](https://doi.org/10.1038/s44260-025-00041-3)!
 
 [Older news](news.qmd)
