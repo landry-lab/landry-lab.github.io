@@ -52,6 +52,7 @@ We are always open to collaboration as well, so reach out if you're interested!
 
 * **July 2026**: Daniel Kaiser will be at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
 * **June 2026**: The Landry Lab will be at [NetSci 2026](https://www.netsci2026.com/) in Boston! Daniel Kaiser will be presenting a poster on information spreading on Bluesky and Abhay Gupta will be presenting a talk on heterogeneous susceptibility and infectiousness on networks.
+* **May 2026**: New preprint out! [The nestedness of higher-order networks](https://arxiv.org/abs/2605.18420) by Timothy LaRock, Yanting Zhang, Jean-Gabriel Young, Nicole Eikmeier, Renaud Lambiotte, and Prof. Landry surveys and unifies different measures of higher-order inclusion structure.
 * **May 2026**: New lab preprint out! [The interplay of network structure and correlated infectious traits in epidemic models](https://arxiv.org/abs/2605.12773) by Abhay and Prof. Landry. Check it out!
 * **May 2026**: Prof. Landry gave a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.
 * **April 2026**: The Landry Lab hosted [Alyssa Smith](https://asmithh.github.io/) for a few days to talk about science!
