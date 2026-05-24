@@ -1,6 +1,14 @@
 import yaml
 from IPython.display import HTML, Markdown, display
 
+import json
+
+
+with open("members.json", "r") as f:
+    member_info = json.load(f)
+    lab_members = set([entry["name"] for entry in member_info])
+    lab_members.add("Nicholas W. Landry")
+
 
 def readable_list(_s):
     if len(_s) < 3:
@@ -19,27 +27,27 @@ def button(url, str, icon):
 
 def load_publication_data(path):
     yaml_data = yaml.safe_load(open(path))
-    pub_strs = {"pubs": {}, "wps": {}, "theses": {}}
+    pub_strs = {"pubs": {}, "preprints": {}, "theses": {}}
     for _, data in yaml_data.items():
         title_str = data["title"]
         authors = data.get("authors", ["NWL"])
         authors = [
-            a if a != "NWL" else "<strong>Nicholas W. Landry</strong>" for a in authors
+            f"<strong>{a}</strong>" if a in lab_members else a for a in authors
         ]
         author_str = readable_list(authors)
         year_str = data["year"]
 
         buttons = []
         pdf = data.get("pdf")
-        if pdf is not None:
+        if pdf:
             buttons.append(button(pdf, "PDF", "bi-file-earmark-pdf"))
 
         preprint = data.get("preprint")
-        if preprint is not None:
+        if preprint:
             buttons.append(button(preprint, "Preprint", "ai-arxiv"))
 
         code = data.get("code")
-        if code is not None:
+        if code:
             buttons.append(button(code, "Code", "bi-github"))
 
         pub_url = data.get("published_url")
@@ -48,25 +56,25 @@ def load_publication_data(path):
 
         pub_str = f'{author_str}, "{title_str}",'
 
-        if venue is not None:
+        if venue:
             pub_str += f" <em>{venue}</em>"
 
-        if thesis_type is not None:
+        if thesis_type:
             pub_str += f", <em>{thesis_type} Thesis</em>"
 
         pub_str += f" ({year_str})."
 
-        if pub_url is None:
-            if year_str not in pub_strs["wps"]:
-                pub_strs["wps"][year_str] = []
-            pub_strs["wps"][year_str].append(
+        if venue is None:
+            if year_str not in pub_strs["preprints"]:
+                pub_strs["preprints"][year_str] = []
+            pub_strs["preprints"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str
                 + "<br>"
                 + " ".join(buttons)
                 + "</li>"
             )
-        elif thesis_type is not None:
+        elif thesis_type:
             if year_str not in pub_strs["theses"]:
                 pub_strs["theses"][year_str] = []
             buttons.append(button(pub_url, "Published", "ai-archive"))
@@ -80,7 +88,10 @@ def load_publication_data(path):
         else:
             if year_str not in pub_strs["pubs"]:
                 pub_strs["pubs"][year_str] = []
-            buttons.append(button(pub_url, "Published", "ai-archive"))
+
+            if pub_url:
+                buttons.append(button(pub_url, "Published", "ai-archive"))
+
             pub_strs["pubs"][year_str].append(
                 "<li class='list-group-item border-0'>"
                 + pub_str
