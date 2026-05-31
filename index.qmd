@@ -52,6 +52,7 @@ We are always open to collaboration as well, so reach out if you're interested!
 
 * **July 2026**: Daniel Kaiser will be at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
 * **June 2026**: The Landry Lab will be at [NetSci 2026](https://www.netsci2026.com/) in Boston! Daniel Kaiser will be presenting a poster on information spreading on Bluesky and Abhay Gupta will be presenting a talk on heterogeneous susceptibility and infectiousness on networks.
+* **May 2026**: The lab was awarded a [SPARC Grant](https://research.as.virginia.edu/seed-funding) for the project "Understanding information diffusion on social media through the lens of ideological groups."
 * **May 2026**: Paper accepted! "NotD: The network of the day" by Abhay, Jessica Taggart, and Prof. Landry accepted at Connections!
 * **May 2026**: The lab was awarded a [Ralph E. Powe Junior Faculty Enhancement Award](https://www.orau.org/partnerships/grant-programs/powe/index.html) for the project "Investigating how groups shape the diffusion of content on social media platforms."
 * **May 2026**: New preprint out! [The nestedness of higher-order networks](https://arxiv.org/abs/2605.18420) by Timothy LaRock, Yanting Zhang, Jean-Gabriel Young, Nicole Eikmeier, Renaud Lambiotte, and Prof. Landry surveys and unifies different measures of higher-order inclusion structure.
