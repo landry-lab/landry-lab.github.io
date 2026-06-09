@@ -50,11 +50,12 @@ We are always open to collaboration as well, so reach out if you're interested!
 
 ## Recent News
 
+* **July 2026**: The Landry Lab will be at [IC2S2 2026](https://ic2s2-2026.org) in Burlington! Prof. Landry is giving a presentation on the [A Blue Start](https://doi.org/10.1038/s41597-026-06920-1) dataset!
 * **July 2026**: Daniel Kaiser will be at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
-* **June 2026**: The Landry Lab will be at [NetSci 2026](https://www.netsci2026.com/) in Boston! Daniel Kaiser will be presenting a poster on information spreading on Bluesky and Abhay Gupta will be presenting a talk on heterogeneous susceptibility and infectiousness on networks.
+* **June 2026**: The Landry Lab was at [NetSci 2026](https://www.netsci2026.com) in Boston! Daniel Kaiser presented a poster on information spreading on Bluesky, Abhay Gupta gave a talk on heterogeneous susceptibility and infectiousness on networks, and Prof. Landry gave a talk titled "Cartographic Characterization of Complex Contagions".
 * **May 2026**: The lab was awarded a [SPARC Grant](https://research.as.virginia.edu/seed-funding) for the project "Understanding information diffusion on social media through the lens of ideological groups."
 * **May 2026**: Paper accepted! "NotD: The network of the day" by Abhay, Jessica Taggart, and Prof. Landry accepted at Connections!
-* **May 2026**: The lab was awarded a [Ralph E. Powe Junior Faculty Enhancement Award](https://www.orau.org/partnerships/grant-programs/powe/index.html) for the project "Investigating how groups shape the diffusion of content on social media platforms."
+* **May 2026**: The lab was awarded a [Ralph E. Powe Junior Faculty Enhancement Award](https://www.orau.org/news/releases/2026/orau-awards-180k-in-research-grants-to-36-junior-faculty.html) for the project "Investigating how groups shape the diffusion of content on social media platforms."
 * **May 2026**: New preprint out! [The nestedness of higher-order networks](https://arxiv.org/abs/2605.18420) by Timothy LaRock, Yanting Zhang, Jean-Gabriel Young, Nicole Eikmeier, Renaud Lambiotte, and Prof. Landry surveys and unifies different measures of higher-order inclusion structure.
 * **May 2026**: New lab preprint out! [The interplay of network structure and correlated infectious traits in epidemic models](https://arxiv.org/abs/2605.12773) by Abhay and Prof. Landry. Check it out!
 * **May 2026**: Prof. Landry gave a talk at the [Department of Genome Sciences](https://med.virginia.edu/genome-sciences/) annual retreat.
@@ -74,7 +75,5 @@ We are always open to collaboration as well, so reach out if you're interested!
 * **August 2025**: Kuankuan Hu rotates with the Landry Lab as a PhD student. Welcome, Kuankuan!
 * **August 2025**: Abhay Gupta joins the Landry Lab as a PhD student. Welcome, Abhay!
 * **July 2025**: Ahmed presented a poster at the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) poster session. Congrats, Ahmed!
-* **June 2025**: Ahmed Ahmed joined the Landry Lab co-advised by [Baltazar Espinoza](https://scholar.google.com/citations?hl=en&user=ovg94mcAAAAJ) through the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) summer internship program hosted by the Biocomplexity Institute. Welcome, Ahmed!
-* **June 2025**: Prof. Landry attended [NetSci 2025](https://netsci2025.github.io) in Maastricht, NL, where he organized the [Software and Data for Supporting Network Science](https://netsci.nascol.net/) satellite workshop and presented work on sampling from the hypergraph configuration model.
 
 [Older news](news.qmd)
