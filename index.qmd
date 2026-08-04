@@ -50,8 +50,8 @@ We are always open to collaboration as well, so reach out if you're interested!
 
 ## Recent News
 
-* **July 2026**: The Landry Lab will be at [IC2S2 2026](https://ic2s2-2026.org) in Burlington! Prof. Landry is giving a presentation on the [A Blue Start](https://doi.org/10.1038/s41597-026-06920-1) dataset!
-* **July 2026**: Daniel Kaiser will be at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
+* **July 2026**: Prof. Landry gave a presentation on the [A Blue Start](https://doi.org/10.1038/s41597-026-06920-1) dataset at [IC2S2 2026](https://ic2s2-2026.org) in Burlington, VT!
+* **July 2026**: Daniel Kaiser was at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
 * **June 2026**: The Landry Lab was at [NetSci 2026](https://www.netsci2026.com) in Boston! Daniel Kaiser presented a poster on information spreading on Bluesky, Abhay Gupta gave a talk on heterogeneous susceptibility and infectiousness on networks, and Prof. Landry gave a talk titled "Cartographic Characterization of Complex Contagions".
 * **May 2026**: The lab was awarded a [SPARC Grant](https://research.as.virginia.edu/seed-funding) for the project "Understanding information diffusion on social media through the lens of ideological groups."
 * **May 2026**: Paper accepted! "NotD: The network of the day" by Abhay, Jessica Taggart, and Prof. Landry accepted at Connections!
@@ -69,11 +69,8 @@ We are always open to collaboration as well, so reach out if you're interested!
 * **November 2025**: Abhay has a new [paper](https://doi.org/10.1098/rspb.2025.1891) out! Congrats, Abhay!
 * **November 2025**: Charlotte has a new [paper](https://doi.org/10.1002/ece3.72493) out! Congrats, Charlotte!
 * **November 2025**: Prof. Landry gave a talk titled "A Practical Guide to Higher-Order Networks" at [Datapalooza](https://datascience.virginia.edu/pages/datapalooza)
-* **October 2025**: Abhay, Andy, Charlotte, and Kuankuan are all at [SEPEEG 2025](https://sepeeg2025.blogspot.com)!
+* **October 2025**: Abhay, Andy, Charlotte, and Kuankuan were all at [SEPEEG 2025](https://sepeeg2025.blogspot.com)!
 * **October 2025**: Prof. Landry wrote a news article with Laurent Hébert-Dufresne on doing group science with XGI. Read it [here](https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/)!
 * **September 2025**: New article published! [Stochastic diffusion with approximate master equations with mean-field limits](https://doi.org/10.1098/rsos.250726) out in Royal Society Open Science!
-* **August 2025**: Kuankuan Hu rotates with the Landry Lab as a PhD student. Welcome, Kuankuan!
-* **August 2025**: Abhay Gupta joins the Landry Lab as a PhD student. Welcome, Abhay!
-* **July 2025**: Ahmed presented a poster at the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) poster session. Congrats, Ahmed!
 
 [Older news](news.qmd)

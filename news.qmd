@@ -2,6 +2,9 @@
 title: "Older news"
 ---
 
+* **August 2025**: Kuankuan Hu started her rotation in the Landry Lab as a PhD student.
+* **August 2025**: Abhay Gupta joined the Landry Lab as a PhD student.
+* **July 2025**: Ahmed presented a poster at the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) poster session. Congrats, Ahmed!
 * **June 2025**: Ahmed Ahmed joined the Landry Lab co-advised by [Baltazar Espinoza](https://scholar.google.com/citations?hl=en&user=ovg94mcAAAAJ) through the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) summer internship program hosted by the Biocomplexity Institute. Welcome, Ahmed!
 * **June 2025**: Prof. Landry attended [NetSci 2025](https://netsci2025.github.io) in Maastricht, NL, where he organized the [Software and Data for Supporting Network Science](https://netsci.nascol.net/) satellite workshop and presented work on sampling from the hypergraph configuration model.
 * **May 2025**: New preprint on the arXiv! ["A Blue Start: A large-scale pairwise and higher-order social network dataset"](https://arxiv.org/abs/2505.11608) in collaboration with [Alyssa Smith](https://asmithh.github.io/), [Ilya Amburg](https://sites.google.com/site/ilyaamburg1/home), [Sagar Kumar](https://www.sagarkumar.net/), and [Brooke Foucault Welles](https://brooke-welles.squarespace.com/)!
