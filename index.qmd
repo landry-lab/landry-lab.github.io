@@ -50,6 +50,7 @@ We are always open to collaboration as well, so reach out if you're interested!
 
 ## Recent News
 
+* **July 2026**: New preprint out! [Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity](https://arxiv.org/abs/2607.25139) with [Katerina Tang](https://kbtang28.github.io/) (on the job market!), [Daniel Kaiser](https://kaiser-dan.github.io/), [William Thompson](https://www.willhwthompson.com/), [Jean-Gabriel Young](https://jgyoung.ca/), and [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/).
 * **July 2026**: Prof. Landry gave a presentation on the [A Blue Start](https://doi.org/10.1038/s41597-026-06920-1) dataset at [IC2S2 2026](https://ic2s2-2026.org) in Burlington, VT!
 * **July 2026**: Daniel Kaiser was at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/siam-conferences/an26/) in Cleveland, presenting work on confounding between heterogeneous simple contagions.
 * **June 2026**: The Landry Lab was at [NetSci 2026](https://www.netsci2026.com) in Boston! Daniel Kaiser presented a poster on information spreading on Bluesky, Abhay Gupta gave a talk on heterogeneous susceptibility and infectiousness on networks, and Prof. Landry gave a talk titled "Cartographic Characterization of Complex Contagions".
