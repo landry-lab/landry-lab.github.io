@@ -21,116 +21,102 @@
     "text": "Published\n\nAbhay Gupta, Jessica Taggart, and Nicholas W. Landry, \"NotD: The network of the day\", accepted at Connections (2026).\n        \n        Code\n    \nAlyssa Smith, Ilya Amburg, Sagar Kumar, Brooke Foucault Welles, and Nicholas W. Landry, \"A Blue Start: A large-scale pairwise and higher-order social network dataset\", Scientific Data (2026).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nMartín Coll, Cliff A. Joslyn, Nicholas W. Landry, Quintino Francesco Lotito, Audun Myers, Joshua Pickard, Brenda Praggastis, and Przemysław Szufel, \"HIF: The hypergraph interchange format for higher-order networks\", Network Science (2025).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nNicholas W. Landry and Laurent Hébert-Dufresne, \"Group Science: The Open Source Study of Higher-order Networks With XGI\", SIAM News (2025).\n        \n        PDF\n     \n        \n        Code\n     \n        \n        Published\n    \nLaurent Hébert-Dufresne, Matthew M. Kling, Samuel F. Rosenblatt, Stephanie N. Miller, P. Alexander Burnham, Nicholas W. Landry, Nicholas J. Gotelli, and Brian J. McGill, \"Stochastic diffusion with approximate master equations with mean-field limits\", Royal Society Open Science (2025).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nLaurent Hébert-Dufresne, Nicholas W. Landry, Juniper Lovato, Jonathan St-Onge, Jean-Gabriel Young, Marie-Ève Couture-Ménard, Stéphane Bernatchez, Catherine Choquette, and Alan A. Cohen, \"Governance as a complex, networked, democratic, satisfiability problem\", npj Complexity (2025).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nNicholas W. Landry, Will Thompson, Laurent Hébert-Dufresne, and Jean-Gabriel Young, \"Reconstructing networks from simple and complex contagions\", Physical Review E (2024).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \n\nPreprints\n\n\nKaterina Tang, Daniel Kaiser, Will Thompson, Jean-Gabriel Young, Laurent Hébert-Dufresne, and Nicholas W. Landry, \"Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity\", (2026).\n        \n        Preprint\n     \n        \n        Code\n    \nTimothy LaRock, Yanting Zhang, Jean-Gabriel Young, Nicole Eikmeier, Renaud Lambiotte, and Nicholas W. Landry, \"The nestedness of higher-order networks\", (2026).\n        \n        Preprint\n     \n        \n        Code\n    \nAbhay Gupta and Nicholas W. Landry, \"The interplay of network structure and correlated infectious traits in epidemic models\", (2026).\n        \n        Preprint\n     \n        \n        Code\n    \nEmma Zajdela and Nicholas W. Landry, \"Higher-order interactions at scientific conferences influence team formation\", (2026).\n        \n        Preprint\n     \n        \n        Code\n    \n\n\nNicholas W. Landry, Beckett R. Hyde, Jake C. Perez, Sean E. Shaheen, and Juan G. Restrepo, \"A theoretical framework for reservoir computing on networks of organic electrochemical transistors\", (2024).\n        \n        Preprint\n     \n        \n        Code"
   },
   {
-    "objectID": "pages/open_positions.html",
-    "href": "pages/open_positions.html",
-    "title": "Open Positions",
+    "objectID": "pages/norms.html",
+    "href": "pages/norms.html",
+    "title": "Lab Norms",
     "section": "",
-    "text": "All students and postdocs must sign a code of conduct to join the lab. Every year (or semester), every member will sign a mentor-mentee contract."
+    "text": "Some things that we are:\n\nCelebrating each others’ successes\nTreating each other with respect"
   },
   {
-    "objectID": "pages/open_positions.html#prospective-phd-students",
-    "href": "pages/open_positions.html#prospective-phd-students",
+    "objectID": "pages/norms.html#lab-culture",
+    "href": "pages/norms.html#lab-culture",
+    "title": "Lab Norms",
+    "section": "",
+    "text": "Some things that we are:\n\nCelebrating each others’ successes\nTreating each other with respect"
+  },
+  {
+    "objectID": "pages/norms.html#attendance",
+    "href": "pages/norms.html#attendance",
+    "title": "Lab Norms",
+    "section": "Attendance",
+    "text": "Attendance\nOur lab culture is collaborative and interactive. This primarily happens through talking and getting to know each other. Remote work can be very convenient and makes sense if you’re sick, are traveling but not on vacation, and if you’re just having one of those days :) I won’t be looking over your shoulder (unless you need more structure, and do let me know if that’s the case), but I generally have the expectation that you’ll make an effort to be in the lab consistently."
+  },
+  {
+    "objectID": "pages/norms.html#graduation",
+    "href": "pages/norms.html#graduation",
+    "title": "Lab Norms",
+    "section": "Graduation",
+    "text": "Graduation\nMy expectation for PhD students is to have at least 3 first-author papers published or posted to the ArXiv (or BioRxiv) by the time of graduation. Along the way, my hope is that you’ll present your work at conferences and events at UVA and make professional connections whether that be in industry or academia."
+  },
+  {
+    "objectID": "pages/norms.html#authorship-and-mentorship",
+    "href": "pages/norms.html#authorship-and-mentorship",
+    "title": "Lab Norms",
+    "section": "Authorship and mentorship",
+    "text": "Authorship and mentorship\nAs a lab member, you will “own” at least one project and you can expect to be first author on that paper. It may be helpful to draw upon the expertise of other people in the lab (or external collaborators) over the course of a project, but I will always ask your permission before doing so. Being a first author comes with some expectations: you’ll be expected to drive the project, generate results, contribute substantively to the methods and theory of the paper, and reach out when you need help.\nI don’t expect a PhD student to be able to write their first paper from scratch without any guidance along the way. Typically, I will offer a lot of guidance on the first paper with the theory, experiments, and writing, and then, for the subsequent two papers, I will give you more and more ownership. I will offer mentorship through weekly one-on-one meetings, lab meetings, and written feedback on code/writing.\nYou can expect me to write you a strong letter of recommendation for jobs applications and fellowships, just give me enough warning :) A month is a perfect amount of time, but at the end of the day, I want to help you succeed, so just ask!"
+  },
+  {
+    "objectID": "pages/norms.html#collaboration",
+    "href": "pages/norms.html#collaboration",
+    "title": "Lab Norms",
+    "section": "Collaboration",
+    "text": "Collaboration\nI think that collaborating across labs and even outside UVA is great for lab members! I do ask that core lab members let me know so that we can determine how it will impact your primary projects."
+  },
+  {
+    "objectID": "pages/norms.html#conferences",
+    "href": "pages/norms.html#conferences",
+    "title": "Lab Norms",
+    "section": "Conferences",
+    "text": "Conferences\nI am committed to sending core lab members to conferences once a year (it may be more, but definitely one). We have lab funding to cover this, but I will encourage applying for travel awards through UVA and other societies to help defray the cost of attendance."
+  },
+  {
+    "objectID": "pages/joining.html",
+    "href": "pages/joining.html",
+    "title": "Open Positions",
+    "section": "",
+    "text": "All students and postdocs must sign a code of conduct to join the lab. Every year (or semester), every member will sign a mentor-mentee contract which will be evaluated once a semester (twice if first semester in the lab)."
+  },
+  {
+    "objectID": "pages/joining.html#prospective-phd-students",
+    "href": "pages/joining.html#prospective-phd-students",
     "title": "Open Positions",
     "section": "Prospective PhD Students",
     "text": "Prospective PhD Students\nIf you are a prospective PhD student considering UVA Biology and interested in modeling the spread of diseases, information, or ideologies from a network science perspective, please email Prof. Landry directly with a subject line of “Prospective PhD Student” and include a brief description of your past and current research interests and your CV. Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.\nOnce you reach out, I’ll determine if we have capacity for students and we’ll set a short initial meeting to see if it seems like a good fit on both sides. If it is, I will encourage you to apply to the Biology PhD program. More details on the application process are here. This is not a guarantee of admission."
   },
   {
-    "objectID": "pages/open_positions.html#uva-undergraduate-students",
-    "href": "pages/open_positions.html#uva-undergraduate-students",
+    "objectID": "pages/joining.html#uva-undergraduate-students",
+    "href": "pages/joining.html#uva-undergraduate-students",
     "title": "Open Positions",
     "section": "UVA Undergraduate Students",
     "text": "UVA Undergraduate Students\nIf you are an undergraduate student and are excited about doing research on contagion spreading on complex networks, email Prof. Landry directly with a subject line of “Undergraduate Research Student at UVA” and include your CV and a description of your interests. Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.\nOnce you reach out, I’ll determine if we have capacity for students and we’ll set a short initial initial meeting to see if it seems like a good fit on both sides. We will determine this from discussing your research interests, technical skills, and how a research experience fits into your long-term goals. It’s impossible to fully figure out whether this is a good fit from this short meeting, however, and you will start a semester-long probationary period. If the lab determines that you are a good fit, you can continue to work in the lab, and if not, we recommend that you find another lab more aligned with your interests and abilities.\nYour first semester working with us, you will take BIOL 3920 for independent research or be paid to complete concrete deliverables. This is S/U graded, which provides a low-stakes way to determine your abilities. If you stay in the lab, we can talk about continuing to do research through BIOL 4920 (graded independent research) or a paid undergraduate research assistantship (contingent on available funds). While Prof. Landry will be somewhat involved in the direction of the project, you can expect that a graduate student or postdoc will be your primary mentor.\nOur expectation is that you will spend a minimum of 6 hours weekly on research while you are a part of the lab (including lab-based meetings). You will show progress by writing in a research journal, which you will update every time that you work on your project (weekly, daily, etc.). In addition, our expectation is that you are not part of another research lab while you are working with us. We will ask you to sign a document committing to these requirements."
   },
   {
-    "objectID": "pages/open_positions.html#high-school-students",
-    "href": "pages/open_positions.html#high-school-students",
+    "objectID": "pages/joining.html#high-school-students",
+    "href": "pages/joining.html#high-school-students",
     "title": "Open Positions",
     "section": "High School Students",
     "text": "High School Students\nUnfortunately, we do not admit high school students into the lab."
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html",
-    "href": "pages/mentor_mentee_contract.html",
-    "title": "Mentor–Mentee Compact",
-    "section": "",
-    "text": "This compact outlines the parameters and expectations of our work together. It should be completed annually with both the mentor and mentee present and revisited periodically throughout the research experience.\nMentee:\nMentor:\nProject:\nDate:"
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#time-commitment-and-schedule",
-    "href": "pages/mentor_mentee_contract.html#time-commitment-and-schedule",
-    "title": "Mentor–Mentee Compact",
-    "section": "1. Time Commitment and Schedule",
-    "text": "1. Time Commitment and Schedule\nThe mentee will work at least _____ hours per week on the project during the academic year.\n\nThe mentee will propose their regular work schedule to the mentor by _____ week of the term.\nThe mentee will communicate any anticipated extended absences or changes in availability as early as possible."
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#communication",
-    "href": "pages/mentor_mentee_contract.html#communication",
-    "title": "Mentor–Mentee Compact",
-    "section": "2. Communication",
-    "text": "2. Communication\nOn a daily basis, our primary means of communication will be through Slack and we agree that a reasonable expectation for response time will be _____."
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#emergency-contact",
-    "href": "pages/mentor_mentee_contract.html#emergency-contact",
-    "title": "Mentor–Mentee Compact",
-    "section": "3. Emergency Contact",
-    "text": "3. Emergency Contact\nIn case of an emergency:\n\nMentor can be reached at: ______________________________\nMentee can be reached at: ______________________________"
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#regular-meetings",
-    "href": "pages/mentor_mentee_contract.html#regular-meetings",
-    "title": "Mentor–Mentee Compact",
-    "section": "4. Regular Meetings",
-    "text": "4. Regular Meetings\nWe will meet one-on-one to discuss progress on the project and reaffirm or revise our goals for _____ minutes, _____ times per week.\n\nIt is the mentee’s responsibility to schedule these meetings. The mentee should reach out at least two weeks prior to the start of the semester to schedule these one-on-one meetings.\nIn preparation for these meetings, the mentee will:\n\n\nReview progress toward current goals.\nIdentify questions, challenges, or areas where assistance is needed.\nProvide updates on completed and ongoing work.\nIdentify priorities for the upcoming week.\nBring relevant code, data, notes, figures, or other project materials when appropriate.\n\n\nThe mentor will provide feedback, guidance, and assistance appropriate to the mentee’s level of experience and the needs of the project."
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#research-expectations-goals-and-probation",
-    "href": "pages/mentor_mentee_contract.html#research-expectations-goals-and-probation",
-    "title": "Mentor–Mentee Compact",
-    "section": "5. Research expectations, goals, and probation",
-    "text": "5. Research expectations, goals, and probation\n\nExpectations\nWhen this research experience constitutes a probationary period, continued participation in the research group is contingent upon satisfactory progress toward the goals and expectations outlined in this compact.\nDuring the probationary period:\n\nThe mentor and mentee will establish clear, measurable expectations for research progress, work habits, communication, and skill development.\nThe mentor will provide reasonable feedback and guidance to help the mentee meet these expectations.\nProgress will be reviewed at _____ weeks and again at the conclusion of the probationary period.\nIf the mentee is not making satisfactory progress toward the agreed-upon outcomes, the mentor will communicate this to the mentee as early as reasonably possible and identify areas for improvement.\nIf, at the conclusion of the probationary period, the mentee has not demonstrated satisfactory progress or met the agreed-upon expectations, the mentee will transition out of the research group.\nA decision not to continue in the research group is not intended as a judgment on the student’s overall academic potential. It reflects the determination that the current research placement is not an appropriate fit for the student, mentor, or project.\n\n\n\nProbationary Period\nStart date: ______________________________\nReview date: _____________________________\nEnd date: ________________________________\nIn Research Goals, we detail requirements for successful completion.\n\n\nResearch Goals\nAt the beginning of each term, the mentor and mentee will establish a small number of specific, measurable goals for the research experience.\nBy ________________, the mentee will:\n\nGoal:\nExpected outcome/deliverable:\nTarget date:\nGoal:\nExpected outcome/deliverable:\nTarget date:\nGoal:\nExpected outcome/deliverable:\nTarget date:\n\nGoals should be specific enough that both the mentor and mentee can determine whether they have been completed.\nExamples of measurable outcomes include:\n\nComplete a literature review covering _____ papers by _____.\nLearn and demonstrate proficiency with _____ software, programming language, or method.\nAnalyze _____ datasets/samples using an agreed-upon analysis pipeline.\nProduce _____ figures/tables suitable for inclusion in a presentation or manuscript.\nWrite a _____–page research summary/report by _____.\nPresent research findings at _____ lab meetings/conferences.\nComplete and document a reproducible analysis pipeline.\nContribute _____ substantive changes/analyses to the project repository.\nPrepare a poster, presentation, manuscript section, or other research product by _____."
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#feedback-and-getting-help",
-    "href": "pages/mentor_mentee_contract.html#feedback-and-getting-help",
-    "title": "Mentor–Mentee Compact",
-    "section": "6. Feedback and Getting Help",
-    "text": "6. Feedback and Getting Help\n\nGetting help\nIf the mentee has questions or needs help while working on their project(s), the mentee is encouraged to ask questions early rather than allowing a problem to delay progress. When possible, the mentee should describe what they have tried, what they expected to happen, and where they encountered difficulty.\n\n\nChanging expectations\nIf the mentee or mentor would like to make changes to the research experience, open communication early on is strongly recommended.\nChanges may include adjustments to:\n\nProject scope or research direction\nWork schedule\nMeeting frequency\nResearch responsibilities\nProject milestones\nLearning objectives\nExpected deliverables\n\nChanges to goals or expectations should be discussed and documented when appropriate.\n\n\nFeedback\nThe mentor and mentee will review progress toward the agreed-upon goals at least 2 times per semester.\nDuring these check-ins, we will discuss:\n\nProgress toward measurable research outcomes.\nProgress toward skill-development goals.\nChallenges or barriers to progress.\nWhether the current goals remain appropriate.\nPriorities and milestones for the next period.\nFeedback for both the mentee and mentor about the research experience.\n\nGoals may be revised when the scope, timeline, or direction of the project changes."
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#professional-expectations",
-    "href": "pages/mentor_mentee_contract.html#professional-expectations",
-    "title": "Mentor–Mentee Compact",
-    "section": "7. Professional Expectations",
-    "text": "7. Professional Expectations\nThe mentee agrees to:\n\nConduct research responsibly and ethically.\nFollow applicable laboratory, departmental, university, and research-safety policies.\nMaintain appropriate records of research activities in a research journal.\nProperly document code, analyses, experiments, and other research products.\nCommunicate honestly about progress, difficulties, and mistakes.\nGive appropriate credit to collaborators and sources.\nRespect the time, contributions, and ideas of other members of the research group.\n\nThe mentor agrees to:\n\nProvide appropriate guidance and feedback.\nClearly communicate expectations and project priorities.\nProvide opportunities for the mentee to develop research skills and independence.\nGive constructive feedback on the mentee’s work.\nCommunicate changes in project direction or expectations in a timely manner.\nSupport the mentee’s professional and academic development."
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#other-considerations",
-    "href": "pages/mentor_mentee_contract.html#other-considerations",
-    "title": "Mentor–Mentee Compact",
-    "section": "8. Other Considerations",
-    "text": "8. Other Considerations\nOther considerations not addressed above that are important to our work together:\n____________________________________________________________\n____________________________________________________________\n____________________________________________________________"
-  },
-  {
-    "objectID": "pages/mentor_mentee_contract.html#agreement",
-    "href": "pages/mentor_mentee_contract.html#agreement",
-    "title": "Mentor–Mentee Compact",
-    "section": "Agreement",
-    "text": "Agreement\nBy signing below, we agree to these expectations and working parameters. We understand that this compact is intended to support a productive, respectful, and mutually beneficial research experience and that expectations may be revised through open communication as the project develops.\nMentee: ___________________________________\nDate: _____________________________________\nMentor: ___________________________________\nDate: _____________________________________\nInspired by the Kasimatis Lab"
   },
   {
     "objectID": "pages/evaluation.html",
     "href": "pages/evaluation.html",
     "title": "Evaluating Mentee Success",
     "section": "",
-    "text": "Date: ____________________\n**\nProgress toward research goals:\n\n\nProgress toward skill-development goals:\n\n\nGoals or expectations to revise:\n\n\n\n\n\nAt the end of the academic year, the mentor and mentee will briefly review the research experience and document major accomplishments.\n\n\n\nResearch project completed or substantially advanced\nData collection completed\nData analysis completed\nFigures/tables produced\nResearch report completed\nPoster or presentation completed\nManuscript or other publication product contributed to\nCode or other research materials documented/released\nOther: _________________________________________________\n\n\n\n\n____________________________________________________________\n____________________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________"
+    "text": "Date: ____________________\n\n\n\nResearch project completed or substantially advanced\nData collection completed\nData analysis completed\nFigures/tables produced\nResearch report completed\nPoster or presentation completed\nManuscript or other publication product contributed to\nCode or other research materials documented/released\nOther: _________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________\n\n\n\n\nProgress toward research goals:\n\n\nProgress toward skill-development goals:\n\n\nGoals or expectations to revise:\n\n\n\n\n____________________________________________________________\n____________________________________________________________"
   },
   {
-    "objectID": "pages/evaluation.html#end-of-year-outcomes",
-    "href": "pages/evaluation.html#end-of-year-outcomes",
+    "objectID": "pages/evaluation.html#accomplishments",
+    "href": "pages/evaluation.html#accomplishments",
     "title": "Evaluating Mentee Success",
     "section": "",
-    "text": "At the end of the academic year, the mentor and mentee will briefly review the research experience and document major accomplishments.\n\n\n\nResearch project completed or substantially advanced\nData collection completed\nData analysis completed\nFigures/tables produced\nResearch report completed\nPoster or presentation completed\nManuscript or other publication product contributed to\nCode or other research materials documented/released\nOther: _________________________________________________\n\n\n\n\n____________________________________________________________\n____________________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________"
+    "text": "Research project completed or substantially advanced\nData collection completed\nData analysis completed\nFigures/tables produced\nResearch report completed\nPoster or presentation completed\nManuscript or other publication product contributed to\nCode or other research materials documented/released\nOther: _________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________\n\n\n\n____________________________________________________________\n____________________________________________________________"
+  },
+  {
+    "objectID": "pages/evaluation.html#progress",
+    "href": "pages/evaluation.html#progress",
+    "title": "Evaluating Mentee Success",
+    "section": "",
+    "text": "Progress toward research goals:\n\n\nProgress toward skill-development goals:\n\n\nGoals or expectations to revise:\n\n\n\n\n____________________________________________________________\n____________________________________________________________"
   },
   {
     "objectID": "index.html",
@@ -203,53 +189,74 @@
     "text": "Lab hike 2025"
   },
   {
-    "objectID": "pages/norms.html",
-    "href": "pages/norms.html",
-    "title": "Lab Norms",
+    "objectID": "pages/mentor_mentee_contract.html",
+    "href": "pages/mentor_mentee_contract.html",
+    "title": "Mentor–Mentee Compact",
     "section": "",
-    "text": "Some things that we are:\n\nCelebrating each others’ successes\nTreating each other with respect"
+    "text": "This compact outlines the parameters and expectations of our work together. It should be completed annually with both the mentor and mentee present and revisited periodically throughout the research experience.\nMentee:\nMentor:\nProject:\nDate:"
   },
   {
-    "objectID": "pages/norms.html#lab-culture",
-    "href": "pages/norms.html#lab-culture",
-    "title": "Lab Norms",
-    "section": "",
-    "text": "Some things that we are:\n\nCelebrating each others’ successes\nTreating each other with respect"
+    "objectID": "pages/mentor_mentee_contract.html#time-commitment-and-schedule",
+    "href": "pages/mentor_mentee_contract.html#time-commitment-and-schedule",
+    "title": "Mentor–Mentee Compact",
+    "section": "1. Time Commitment and Schedule",
+    "text": "1. Time Commitment and Schedule\nThe mentee will work at least _____ hours per week on the project during the academic year.\n\nThe mentee will propose their regular work schedule to the mentor by _____ week of the term.\nThe mentee will communicate any anticipated extended absences or changes in availability as early as possible."
   },
   {
-    "objectID": "pages/norms.html#attendance",
-    "href": "pages/norms.html#attendance",
-    "title": "Lab Norms",
-    "section": "Attendance",
-    "text": "Attendance\nOur lab culture is collaborative and interactive. This primarily happens through talking and getting to know each other. Remote work can be very convenient and makes sense if you’re sick, are traveling but not on vacation, and if you’re just having one of those days :) I won’t be looking over your shoulder (unless you need more structure, and do let me know if that’s the case), but I generally have the expectation that you’ll make an effort to be in the lab consistently."
+    "objectID": "pages/mentor_mentee_contract.html#communication",
+    "href": "pages/mentor_mentee_contract.html#communication",
+    "title": "Mentor–Mentee Compact",
+    "section": "2. Communication",
+    "text": "2. Communication\nOn a daily basis, our primary means of communication will be through Slack and we agree that a reasonable expectation for response time will be _____."
   },
   {
-    "objectID": "pages/norms.html#graduation",
-    "href": "pages/norms.html#graduation",
-    "title": "Lab Norms",
-    "section": "Graduation",
-    "text": "Graduation\nMy expectation for PhD students is to have at least 3 first-author papers published or posted to the ArXiv (or BioRxiv) by the time of graduation. Along the way, my hope is that you’ll present your work at conferences and events at UVA and make professional connections whether that be in industry or academia."
+    "objectID": "pages/mentor_mentee_contract.html#emergency-contact",
+    "href": "pages/mentor_mentee_contract.html#emergency-contact",
+    "title": "Mentor–Mentee Compact",
+    "section": "3. Emergency Contact",
+    "text": "3. Emergency Contact\nIn case of an emergency:\n\nMentor can be reached at: ______________________________\nMentee can be reached at: ______________________________"
   },
   {
-    "objectID": "pages/norms.html#authorship-and-mentorship",
-    "href": "pages/norms.html#authorship-and-mentorship",
-    "title": "Lab Norms",
-    "section": "Authorship and mentorship",
-    "text": "Authorship and mentorship\nAs a lab member, you will “own” at least one project and you can expect to be first author on that paper. It may be helpful to draw upon the expertise of other people in the lab (or external collaborators) over the course of a project, but I will always ask your permission before doing so. Being a first author comes with some expectations: you’ll be expected to drive the project, generate results, contribute substantively to the methods and theory of the paper, and reach out when you need help.\nI don’t expect a PhD student to be able to write their first paper from scratch without any guidance along the way. Typically, I will offer a lot of guidance on the first paper with the theory, experiments, and writing, and then, for the subsequent two papers, I will give you more and more ownership. I will offer mentorship through weekly one-on-one meetings, lab meetings, and written feedback on code/writing.\nYou can expect me to write you a strong letter of recommendation for jobs applications and fellowships, just give me enough warning :) A month is a perfect amount of time, but at the end of the day, I want to help you succeed, so just ask!"
+    "objectID": "pages/mentor_mentee_contract.html#regular-meetings",
+    "href": "pages/mentor_mentee_contract.html#regular-meetings",
+    "title": "Mentor–Mentee Compact",
+    "section": "4. Regular Meetings",
+    "text": "4. Regular Meetings\nWe will meet one-on-one to discuss progress on the project and reaffirm or revise our goals for _____ minutes, _____ times per week.\n\nIt is the mentee’s responsibility to schedule these meetings. The mentee should reach out at least two weeks prior to the start of the semester to schedule these one-on-one meetings.\nIn preparation for these meetings, the mentee will:\n\n\nReview progress toward current goals.\nIdentify questions, challenges, or areas where assistance is needed.\nProvide updates on completed and ongoing work.\nIdentify priorities for the upcoming week.\nBring relevant code, data, notes, figures, or other project materials when appropriate.\n\n\nThe mentor will provide feedback, guidance, and assistance appropriate to the mentee’s level of experience and the needs of the project."
   },
   {
-    "objectID": "pages/norms.html#collaboration",
-    "href": "pages/norms.html#collaboration",
-    "title": "Lab Norms",
-    "section": "Collaboration",
-    "text": "Collaboration\nI think that collaborating across labs and even outside UVA is great for lab members! I do ask that core lab members let me know so that we can determine how it will impact your primary projects."
+    "objectID": "pages/mentor_mentee_contract.html#research-expectations-goals-and-probation",
+    "href": "pages/mentor_mentee_contract.html#research-expectations-goals-and-probation",
+    "title": "Mentor–Mentee Compact",
+    "section": "5. Research expectations, goals, and probation",
+    "text": "5. Research expectations, goals, and probation\n\nExpectations\nWhen this research experience constitutes a probationary period, continued participation in the research group is contingent upon satisfactory progress toward the goals and expectations outlined in this compact.\nDuring the probationary period:\n\nThe mentor and mentee will establish clear, measurable expectations for research progress, work habits, communication, and skill development.\nThe mentor will provide reasonable feedback and guidance to help the mentee meet these expectations.\nProgress will be reviewed at _____ weeks and again at the conclusion of the probationary period.\nIf the mentee is not making satisfactory progress toward the agreed-upon outcomes, the mentor will communicate this to the mentee as early as reasonably possible and identify areas for improvement.\nIf, at the conclusion of the probationary period, the mentee has not demonstrated satisfactory progress or met the agreed-upon expectations, the mentee will transition out of the research group.\nA decision not to continue in the research group is not intended as a judgment on the student’s overall academic potential. It reflects the determination that the current research placement is not an appropriate fit for the student, mentor, or project.\n\n\n\nProbationary Period\nStart date: ______________________________\nReview date: _____________________________\nEnd date: ________________________________\nIn Research Goals, we detail requirements for successful completion.\n\n\nResearch Goals\nAt the beginning of each term, the mentor and mentee will establish a small number of specific, measurable goals for the research experience.\nBy ________________, the mentee will:\n\nGoal:\nExpected outcome/deliverable:\nTarget date:\nGoal:\nExpected outcome/deliverable:\nTarget date:\nGoal:\nExpected outcome/deliverable:\nTarget date:\n\nGoals should be specific enough that both the mentor and mentee can determine whether they have been completed.\nExamples of measurable outcomes include:\n\nComplete a literature review covering _____ papers by _____.\nLearn and demonstrate proficiency with _____ software, programming language, or method.\nAnalyze _____ datasets/samples using an agreed-upon analysis pipeline.\nProduce _____ figures/tables suitable for inclusion in a presentation or manuscript.\nWrite a _____–page research summary/report by _____.\nPresent research findings at _____ lab meetings/conferences.\nComplete and document a reproducible analysis pipeline.\nContribute _____ substantive changes/analyses to the project repository.\nPrepare a poster, presentation, manuscript section, or other research product by _____."
   },
   {
-    "objectID": "pages/norms.html#conferences",
-    "href": "pages/norms.html#conferences",
-    "title": "Lab Norms",
-    "section": "Conferences",
-    "text": "Conferences\nI am committed to sending core lab members to conferences once a year (it may be more, but definitely one). We have lab funding to cover this, but I will encourage applying for travel awards through UVA and other societies to help defray the cost of attendance."
+    "objectID": "pages/mentor_mentee_contract.html#feedback-and-getting-help",
+    "href": "pages/mentor_mentee_contract.html#feedback-and-getting-help",
+    "title": "Mentor–Mentee Compact",
+    "section": "6. Feedback and Getting Help",
+    "text": "6. Feedback and Getting Help\n\nGetting help\nIf the mentee has questions or needs help while working on their project(s), the mentee is encouraged to ask questions early rather than allowing a problem to delay progress. When possible, the mentee should describe what they have tried, what they expected to happen, and where they encountered difficulty.\n\n\nChanging expectations\nIf the mentee or mentor would like to make changes to the research experience, open communication early on is strongly recommended.\nChanges may include adjustments to:\n\nProject scope or research direction\nWork schedule\nMeeting frequency\nResearch responsibilities\nProject milestones\nLearning objectives\nExpected deliverables\n\nChanges to goals or expectations should be discussed and documented when appropriate.\n\n\nFeedback\nThe mentor and mentee will review progress toward the agreed-upon goals at least 2 times per semester.\nDuring these check-ins, we will discuss:\n\nProgress toward measurable research outcomes.\nProgress toward skill-development goals.\nChallenges or barriers to progress.\nWhether the current goals remain appropriate.\nPriorities and milestones for the next period.\nFeedback for both the mentee and mentor about the research experience.\n\nGoals may be revised when the scope, timeline, or direction of the project changes."
+  },
+  {
+    "objectID": "pages/mentor_mentee_contract.html#professional-expectations",
+    "href": "pages/mentor_mentee_contract.html#professional-expectations",
+    "title": "Mentor–Mentee Compact",
+    "section": "7. Professional Expectations",
+    "text": "7. Professional Expectations\nThe mentee agrees to:\n\nConduct research responsibly and ethically.\nFollow applicable laboratory, departmental, university, and research-safety policies.\nMaintain appropriate records of research activities in a research journal.\nProperly document code, analyses, experiments, and other research products.\nCommunicate honestly about progress, difficulties, and mistakes.\nGive appropriate credit to collaborators and sources.\nRespect the time, contributions, and ideas of other members of the research group.\n\nThe mentor agrees to:\n\nProvide appropriate guidance and feedback.\nClearly communicate expectations and project priorities.\nProvide opportunities for the mentee to develop research skills and independence.\nGive constructive feedback on the mentee’s work.\nCommunicate changes in project direction or expectations in a timely manner.\nSupport the mentee’s professional and academic development."
+  },
+  {
+    "objectID": "pages/mentor_mentee_contract.html#other-considerations",
+    "href": "pages/mentor_mentee_contract.html#other-considerations",
+    "title": "Mentor–Mentee Compact",
+    "section": "8. Other Considerations",
+    "text": "8. Other Considerations\nOther considerations not addressed above that are important to our work together:\n____________________________________________________________\n____________________________________________________________\n____________________________________________________________"
+  },
+  {
+    "objectID": "pages/mentor_mentee_contract.html#agreement",
+    "href": "pages/mentor_mentee_contract.html#agreement",
+    "title": "Mentor–Mentee Compact",
+    "section": "Agreement",
+    "text": "Agreement\nBy signing below, we agree to these expectations and working parameters. We understand that this compact is intended to support a productive, respectful, and mutually beneficial research experience and that expectations may be revised through open communication as the project develops.\nMentee: ___________________________________\nDate: _____________________________________\nMentor: ___________________________________\nDate: _____________________________________\nInspired by the Kasimatis Lab"
   },
   {
     "objectID": "pages/people.html",
