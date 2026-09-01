@@ -169,6 +169,24 @@ Tyler Long is a first-year undergraduate pursuing a B.S. in Statistics. She is i
 ```
 :::
 
+## Clairice Lou, Undergraduate Student
+
+<img src="/assets/images/headshots/headshot_clou.jpg" width="20%" hspace="20" align="left">
+Clairice is a third-year undergraduate studying Data Science with a concentration in Global Public Health. She is interested in using data science and computational methods to better understand public health problems and improve health outcomes, particularly how diseases and information spread through populations and networks, and how data can be used to better understand and address these patterns. Outside of the lab, she enjoys spending time with friends.
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:pnu9pt@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/clairicelou/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+</a>
+<br>
+<br>
+```
+:::
+
 ## Gelila Solomon, Undergraduate Student
 
 <img src="/assets/images/headshots/headshot_gsolomon.jpg" width="20%" hspace="20" align="left">
@@ -193,11 +211,11 @@ Are you interested in any of the lab's [research areas](research.qmd)? If so, se
 
 ## Lab Alumni
 
-### PhD Students
+### Rotation Students
 
 * Michael Leonard, PhD Student, Spring 2026
 * Kuankuan Hu, PhD Student, Fall 2025
 
 ### Undergraduate Students
 
-* Ahmed Ahmed, Undergraduate Intern, Summer 2025
+* Ahmed Ahmed, Summer 2025
