@@ -11,8 +11,6 @@ throughout the research experience.
 **Project:**  
 **Date:**  
 
----
-
 ## 1. Time Commitment and Schedule
 
 The mentee will work at least **_____ hours per week** on the project during the academic year.
@@ -21,13 +19,10 @@ a. The mentee will propose their regular work schedule to the mentor by **_____ 
 
 b. The mentee will communicate any anticipated extended absences or changes in availability as early as possible.
 
----
 
 ## 2. Communication
 
-On a daily basis, our primary means of communication will be through **_____** and we agree that a reasonable expectation for response time will be **_____**.
-
----
+On a daily basis, our primary means of communication will be through Slack and we agree that a reasonable expectation for response time will be **_____**.
 
 ## 3. Emergency Contact
 
@@ -36,7 +31,6 @@ In case of an emergency:
 - **Mentor can be reached at:** ______________________________
 - **Mentee can be reached at:** ______________________________
 
----
 
 ## 4. Regular Meetings
 
@@ -56,7 +50,6 @@ b. In preparation for these meetings, the mentee will:
 c. The mentor will provide feedback, guidance, and assistance appropriate to the mentee’s
 level of experience and the needs of the project.
 
----
 
 ## 5. Research expectations, goals, and probation
 
@@ -124,7 +117,6 @@ Examples of measurable outcomes include:
 - Contribute **_____ substantive changes/analyses** to the project repository.
 - Prepare a poster, presentation, manuscript section, or other research product by **_____**.
 
----
 
 ## 6. Feedback and Getting Help
 
@@ -186,7 +178,6 @@ The mentor agrees to:
 - Communicate changes in project direction or expectations in a timely manner.
 - Support the mentee’s professional and academic development.
 
----
 
 ## 8. Other Considerations
 
@@ -208,9 +199,11 @@ research experience and that expectations may be revised through open communicat
 project develops.
 
 **Mentee:** ___________________________________
+
 **Date:** _____________________________________
 
 **Mentor:** ___________________________________
+
 **Date:** _____________________________________
 
 *Inspired by the Kasimatis Lab*
