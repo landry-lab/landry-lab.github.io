@@ -2,6 +2,7 @@
 title: "Older news"
 ---
 
+* **September 2025**: New article published! [Stochastic diffusion with approximate master equations with mean-field limits](https://doi.org/10.1098/rsos.250726) out in Royal Society Open Science!
 * **August 2025**: Kuankuan Hu started her rotation in the Landry Lab as a PhD student.
 * **August 2025**: Abhay Gupta joined the Landry Lab as a PhD student.
 * **July 2025**: Ahmed presented a poster at the [Computing for Global Challenges (C4GC)](https://proceedings.biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing/computing-global-challenges) poster session. Congrats, Ahmed!

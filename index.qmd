@@ -72,6 +72,5 @@ We are always open to collaboration as well, so reach out if you're interested!
 * **November 2025**: Prof. Landry gave a talk titled "A Practical Guide to Higher-Order Networks" at [Datapalooza](https://datascience.virginia.edu/pages/datapalooza)
 * **October 2025**: Abhay, Andy, Charlotte, and Kuankuan were all at [SEPEEG 2025](https://sepeeg2025.blogspot.com)!
 * **October 2025**: Prof. Landry wrote a news article with Laurent Hébert-Dufresne on doing group science with XGI. Read it [here](https://www.siam.org/publications/siam-news/articles/group-science-the-open-source-study-of-higher-order-networks-with-xgi/)!
-* **September 2025**: New article published! [Stochastic diffusion with approximate master equations with mean-field limits](https://doi.org/10.1098/rsos.250726) out in Royal Society Open Science!
 
 [Older news](news.qmd)

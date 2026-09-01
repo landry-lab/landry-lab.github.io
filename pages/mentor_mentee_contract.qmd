@@ -81,37 +81,27 @@ During the probationary period:
 
 **End date:** ________________________________
 
-**Specific outcomes required for successful completion:**
+**In Research Goals, we detail requirements for successful completion.**
 
-1. ---
-2. ---
-3. ---
 
-**Additional expectations:**
-
----
-
----
-
+### Research Goals
 
 At the beginning of each term, the mentor and mentee will establish a small number of
 specific, measurable goals for the research experience.
 
-### Research Goals
-
 By **________________**, the mentee will:
 
-1. **Goal:**  
-   **Expected outcome/deliverable:**  
-   **Target date:**  
+1. **Goal:**
+   **Expected outcome/deliverable:**
+   **Target date:**
 
-2. **Goal:**  
-   **Expected outcome/deliverable:**  
-   **Target date:**  
+2. **Goal:**
+   **Expected outcome/deliverable:**
+   **Target date:**
 
-3. **Goal:**  
-   **Expected outcome/deliverable:**  
-   **Target date:**  
+3. **Goal:**
+   **Expected outcome/deliverable:**
+   **Target date:**
 
 Goals should be specific enough that both the mentor and mentee can determine whether they
 have been completed.
@@ -136,7 +126,7 @@ Examples of measurable outcomes include:
 
 If the mentee has questions or needs help while working on their project(s), the mentee is encouraged to ask questions early rather than allowing a problem to delay progress. When possible, the mentee should describe what they have tried, what they expected to happen, and where they encountered difficulty.
 
-### Altering experience
+### Changing expectations
 
 If the mentee or mentor would like to make changes to the research experience, open
 communication early on is strongly recommended.
@@ -153,11 +143,10 @@ Changes may include adjustments to:
 
 Changes to goals or expectations should be discussed and documented when appropriate.
 
-
 ### Feedback 
 
 The mentor and mentee will review progress toward the agreed-upon goals at least
-**_____ times per term**.
+**2 times per semester**.
 
 During these check-ins, we will discuss:
 
@@ -169,30 +158,6 @@ During these check-ins, we will discuss:
 - Feedback for both the mentee and mentor about the research experience.
 
 Goals may be revised when the scope, timeline, or direction of the project changes.
-
-### Midpoint Review
-
-**Date:** ____________________
-
-**Progress toward research goals:**
-
-____________________________________________________________
-
-____________________________________________________________
-
-**Progress toward skill-development goals:**
-
-____________________________________________________________
-
-____________________________________________________________
-
-**Goals or expectations to revise:**
-
-____________________________________________________________
-
-____________________________________________________________
-
----
 
 ## 7. Professional Expectations
 
@@ -217,46 +182,9 @@ The mentor agrees to:
 
 ---
 
-## 8. End-of-Year Outcomes
+## 8. Other Considerations
 
-At the end of the academic year, the mentor and mentee will briefly review the research
-experience and document major accomplishments.
-
-### Research Accomplishments
-
-- [ ] Research project completed or substantially advanced
-- [ ] Data collection completed
-- [ ] Data analysis completed
-- [ ] Figures/tables produced
-- [ ] Research report completed
-- [ ] Poster or presentation completed
-- [ ] Manuscript or other publication product contributed to
-- [ ] Code or other research materials documented/released
-- [ ] Other: _________________________________________________
-
-### Skills Developed
-
-**____________________________________________________________**
-
-**____________________________________________________________**
-
-### Major Outcomes or Accomplishments
-
-**____________________________________________________________**
-
-**____________________________________________________________**
-
-### Goals for the Next Research Experience
-
-**____________________________________________________________**
-
-**____________________________________________________________**
-
----
-
-## 9. Other Issues
-
-Other issues not addressed above that are important to our work together:
+Other considerations not addressed above that are important to our work together:
 
 **____________________________________________________________**
 
