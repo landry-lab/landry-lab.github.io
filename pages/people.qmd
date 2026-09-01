@@ -189,7 +189,7 @@ Gelila Solomon is a second-year undergraduate studying Data Science and minoring
 
 ## You?
 
-Are you interested in any of the lab's [research areas](research.qmd)? If so, see our [open positions](open_positions.qmd) page!
+Are you interested in any of the lab's [research areas](research.qmd)? If so, see our [open positions](joining.qmd) page!
 
 ## Lab Alumni
 

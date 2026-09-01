@@ -43,8 +43,8 @@ We use tools from network science, mathematical modeling, Bayesian inference, an
 
 We are recruiting the following positions:
 
-* **Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them. Reach out with any questions! See [here](pages/open_positions.qmd) for more information.
-* **Undergraduate Students**: See [here](pages/open_positions.qmd) for more information.
+* **Graduate Students**: Graduate students will have considerable latitude to choose courses and a research project that interests them. Reach out with any questions! See [here](pages/joining.qmd) for more information.
+* **Undergraduate Students**: See [here](pages/joining.qmd) for more information.
 
 We are always open to collaboration as well, so reach out if you're interested!
 

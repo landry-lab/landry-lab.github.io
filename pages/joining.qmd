@@ -2,7 +2,7 @@
 title: "Open Positions"
 ---
 
-All students and postdocs must sign a code of conduct to join the lab. Every year (or semester), every member will sign a [mentor-mentee contract](mentor_mentee_contract.qmd).
+All students and postdocs must sign a code of conduct to join the lab. Every year (or semester), every member will sign a [mentor-mentee contract](mentor_mentee_contract.qmd) which will be [evaluated](evaluation.qmd) once a semester (twice if first semester in the lab).
 
 ## Prospective PhD Students
 

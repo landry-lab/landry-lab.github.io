@@ -32,6 +32,8 @@ website:
             href: pages/people.qmd
           - text: Lab Values
             href: pages/values.qmd
+          - text: Joining the lab
+            href: pages/joining.qmd
           - text: Gallery
             href: pages/gallery.qmd
     search: true

@@ -7,35 +7,7 @@ title: Evaluating Mentee Success
 
 **Date:** ____________________
 
-**
-
-**Progress toward research goals:**
-
-____________________________________________________________
-
-____________________________________________________________
-
-**Progress toward skill-development goals:**
-
-____________________________________________________________
-
-____________________________________________________________
-
-**Goals or expectations to revise:**
-
-____________________________________________________________
-
-____________________________________________________________
-
----
-
-
-## End-of-Year Outcomes
-
-At the end of the academic year, the mentor and mentee will briefly review the research
-experience and document major accomplishments.
-
-### Research Accomplishments
+## Accomplishments
 
 - [ ] Research project completed or substantially advanced
 - [ ] Data collection completed
@@ -59,10 +31,28 @@ experience and document major accomplishments.
 
 **____________________________________________________________**
 
+## Progress
+
+**Progress toward research goals:**
+
+____________________________________________________________
+
+____________________________________________________________
+
+**Progress toward skill-development goals:**
+
+____________________________________________________________
+
+____________________________________________________________
+
+**Goals or expectations to revise:**
+
+____________________________________________________________
+
+____________________________________________________________
+
 ### Goals for the Next Research Experience
 
 **____________________________________________________________**
 
 **____________________________________________________________**
-
----
