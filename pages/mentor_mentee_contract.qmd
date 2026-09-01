@@ -58,7 +58,41 @@ level of experience and the needs of the project.
 
 ---
 
-## 5. Project Goals and Measurable Outcomes
+## 5. Research expectations, goals, and probation
+
+### Expectations
+
+When this research experience constitutes a **probationary period**, continued participation in the research group is contingent upon satisfactory progress toward the goals and expectations outlined in this compact.
+
+During the probationary period:
+
+* The mentor and mentee will establish clear, measurable expectations for research progress, work habits, communication, and skill development.
+* The mentor will provide reasonable feedback and guidance to help the mentee meet these expectations.
+* Progress will be reviewed at **_____ weeks** and again at the conclusion of the probationary period.
+* If the mentee is not making satisfactory progress toward the agreed-upon outcomes, the mentor will communicate this to the mentee as early as reasonably possible and identify areas for improvement.
+* If, at the conclusion of the probationary period, the mentee has not demonstrated satisfactory progress or met the agreed-upon expectations, the mentee will **transition out of the research group**.
+* A decision not to continue in the research group is not intended as a judgment on the student’s overall academic potential. It reflects the determination that the current research placement is not an appropriate fit for the student, mentor, or project.
+
+### Probationary Period
+
+**Start date:** ______________________________
+
+**Review date:** _____________________________
+
+**End date:** ________________________________
+
+**Specific outcomes required for successful completion:**
+
+1. ---
+2. ---
+3. ---
+
+**Additional expectations:**
+
+---
+
+---
+
 
 At the beginning of each term, the mentor and mentee will establish a small number of
 specific, measurable goals for the research experience.
@@ -96,46 +130,31 @@ Examples of measurable outcomes include:
 
 ---
 
-## 6. Research Placement and Performance Expectations
+## 6. Feedback and Getting Help
 
-When this research experience constitutes a **probationary period**, continued participation in the research group is contingent upon satisfactory progress toward the goals and expectations outlined in this compact.
-
-During the probationary period:
-
-* The mentor and mentee will establish clear, measurable expectations for research progress, work habits, communication, and skill development.
-* The mentor will provide reasonable feedback and guidance to help the mentee meet these expectations.
-* Progress will be reviewed at **_____ weeks** and again at the conclusion of the probationary period.
-* If the mentee is not making satisfactory progress toward the agreed-upon outcomes, the mentor will communicate this to the mentee as early as reasonably possible and identify areas for improvement.
-* If, at the conclusion of the probationary period, the mentee has not demonstrated satisfactory progress or met the agreed-upon expectations, the mentee will **transition out of the research group**.
-* A decision not to continue in the research group is not intended as a judgment on the student’s overall academic potential. It reflects the determination that the current research placement is not an appropriate fit for the student, mentor, or project.
-
-### Probationary Period
-
-**Start date:** ______________________________
-
-**Review date:** _____________________________
-
-**End date:** ________________________________
-
-**Specific outcomes required for successful completion:**
-
-1. ---
-2. ---
-3. ---
-
-**Additional expectations:**
-
----
-
----
-
-## 7. Questions and Requests for Help
+### Getting help
 
 If the mentee has questions or needs help while working on their project(s), the mentee is encouraged to ask questions early rather than allowing a problem to delay progress. When possible, the mentee should describe what they have tried, what they expected to happen, and where they encountered difficulty.
 
----
+### Altering experience
 
-## 8. Progress Tracking and Feedback
+If the mentee or mentor would like to make changes to the research experience, open
+communication early on is strongly recommended.
+
+Changes may include adjustments to:
+
+- Project scope or research direction
+- Work schedule
+- Meeting frequency
+- Research responsibilities
+- Project milestones
+- Learning objectives
+- Expected deliverables
+
+Changes to goals or expectations should be discussed and documented when appropriate.
+
+
+### Feedback 
 
 The mentor and mentee will review progress toward the agreed-upon goals at least
 **_____ times per term**.
@@ -175,7 +194,7 @@ ____________________________________________________________
 
 ---
 
-## 9. Professional and Research Expectations
+## 7. Professional Expectations
 
 The mentee agrees to:
 
@@ -198,38 +217,7 @@ The mentor agrees to:
 
 ---
 
-## 10. Changes to the Research Experience
-
-If the mentee or mentor would like to make changes to the research experience, open
-communication early on is strongly recommended.
-
-Changes may include adjustments to:
-
-- Project scope or research direction
-- Work schedule
-- Meeting frequency
-- Research responsibilities
-- Project milestones
-- Learning objectives
-- Expected deliverables
-
-Changes to goals or expectations should be discussed and documented when appropriate.
-
----
-
-## 11. Other Issues
-
-Other issues not addressed above that are important to our work together:
-
-**____________________________________________________________**
-
-**____________________________________________________________**
-
-**____________________________________________________________**
-
----
-
-## 12. End-of-Year Outcomes
+## 8. End-of-Year Outcomes
 
 At the end of the academic year, the mentor and mentee will briefly review the research
 experience and document major accomplishments.
@@ -259,6 +247,18 @@ experience and document major accomplishments.
 **____________________________________________________________**
 
 ### Goals for the Next Research Experience
+
+**____________________________________________________________**
+
+**____________________________________________________________**
+
+---
+
+## 9. Other Issues
+
+Other issues not addressed above that are important to our work together:
+
+**____________________________________________________________**
 
 **____________________________________________________________**
 
