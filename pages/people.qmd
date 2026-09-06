@@ -133,6 +133,21 @@ Rudra Dave is a second-year undergraduate majoring in Data Science on the pre-me
 ```
 :::
 
+## Daphne Dong, Undergraduate Student
+
+<img src="/assets/images/headshots/headshot_ddong.jpg" width="20%" hspace="20" align="left">
+Daphne is a second-year undergraduate majoring in Biology and minoring in Statistics and Design. Her interests lie at the intersection of disease modeling, public health, and visual communication. She hopes to explore how computational and statistical tools can reveal patterns in disease spread, then translate those insights through visualization and storytelling. Beyond research, she enjoys art, music, tennis, and spending time in nature.
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:jbd7qp@virginia.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<br>
+<br>
+```
+:::
+
 ## Daniel Gao, Undergraduate Student
 
 <img src="/assets/images/headshots/headshot_dgao.png" width="20%" hspace="20" align="left">
@@ -140,7 +155,7 @@ Daniel Gao is a second-year undergraduate majoring in Computer Science with inte
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:cfb6yf@virginia.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:fjs7pj@virginia.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://www.linkedin.com/in/danielgao2766/" target="_blank" rel="noopener noreferrer">
