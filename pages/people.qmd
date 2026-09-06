@@ -22,7 +22,9 @@ Nicholas Landry is an Assistant Professor in the Biology Department at the Unive
 ```
 :::
 
-## Daniel Kaiser, Postdoc
+## Postdocs
+
+### Daniel Kaiser
 
 <img src="/assets/images/headshots/headshot_dkaiser.jpg" width="20%" hspace="20" align="left">
 Daniel's research interests are often evolving, currently including multi-dimensional higher-order interactions and lossy compressions, the role of homophily and complementarity in hypergraph growth, and community detection in hypergraphs. He is also interested in and maintains some projects concerning efficient multi-body ranking algorithms and surprising competitive outcomes, equitable transportation infrastructure through a field theory lens, and the creation of non-polarizing recommendation systems. Before joining the Landry Lab at UVA, Daniel completed a Ph.D. in Informatics at Indiana University under the supervision of Dr. Filippo Radicchi and a B.S. in Mathematics from the University of Michigan. 
@@ -40,7 +42,9 @@ Daniel's research interests are often evolving, currently including multi-dimens
 ```
 :::
 
-## Ariana Craft, PhD Student
+## PhD Students
+
+### Ariana Craft
 
 <img src="/assets/images/headshots/headshot_acraft.jpg" width="20%" hspace="20" align="left">
 I am a neuroscience Ph.D. student in the Larson Lab, co-advised by Professor Landry, where I study neuroplasticity in songbirds. My research explores how bird song is learned, engrained, and transmitted across sub-populations throughout the United States. I am currently working to incorporate computational methods to compare biological vocal learning in birds with modeled systems to understand larger principles of not only communication but plasticity. Outside of the lab I enjoy cafe-hopping and reading.
@@ -58,7 +62,7 @@ I am a neuroscience Ph.D. student in the Larson Lab, co-advised by Professor Lan
 ```
 :::
 
-## Charlotte Greene, PhD Student
+### Charlotte Greene
 
 <img src="/assets/images/headshots/headshot_cgreene.jpg" width="20%" hspace="20" align="left">
 Charlotte is as evolutionary biology and behavioral ecology PhD candidate being co-advised by Prof. Landry and Butch Brodie. They study environmental drivers of variation in sexual selection across space and time. Their work primarily focuses on the role of population demographics, age, and behavior in the evolution of weaponry in male forked fungus beetles. Charlotte is excited about expanding their research to apply contagion-based computational approaches to studying aggression and social behaviors. When not staring at beetles, Charlotte most enjoys running, dancing, and reading.
@@ -76,7 +80,7 @@ Charlotte is as evolutionary biology and behavioral ecology PhD candidate being 
 ```
 :::
 
-## Andy Grieve, PhD Student
+### Andy Grieve
 
 <img src="/assets/images/headshots/headshot_agrieve.jpg" width="20%" hspace="20" align="left">
 Andy is a 2nd year Ph.D. student in the [Kasimatis Lab](https://conflictgenomics.com/) studying sexual conflict. He is an EXPAND fellow for the 2025-2026 academic year, co-advised by Prof. Landry. He is interested in how sexes share autosomal genetic material, but experience differentiated phenotypes. His studies focus on sexual conflict, and the molecular mechanisms that can reduce sexual conflict. Outside of the lab Andy enjoys trail running, rock climbing, and reading.
@@ -94,7 +98,7 @@ Andy is a 2nd year Ph.D. student in the [Kasimatis Lab](https://conflictgenomics
 ```
 :::
 
-## Abhay Gupta, PhD Student
+### Abhay Gupta
 
 <img src="/assets/images/headshots/headshot_agupta.jpg" width="20%" hspace="20" align="left">
 I come from Delhi, India---a city full of energy and diversity. I completed my Master’s in Biology, during which I developed a strong interest in studying the evolution of adaptations using theoretical and computational approaches.  
@@ -115,7 +119,9 @@ I’m looking forward to joining the lab, learning from everyone, and contributi
 ```
 :::
 
-## Rudra Davé, Undergraduate Student
+## Undergraduate Students
+
+### Rudra Davé
 
 <img src="/assets/images/headshots/headshot_rdave.jpg" width="20%" hspace="20" align="left">
 Rudra Dave is a second-year undergraduate majoring in Data Science on the pre-med track. He is particularly interested in understanding how diseases and ideas spread through networks, with a focus on group interactions. He uses Python tools, including XGI, to model these dynamics using higher-order networks.
@@ -133,7 +139,7 @@ Rudra Dave is a second-year undergraduate majoring in Data Science on the pre-me
 ```
 :::
 
-## Daphne Dong, Undergraduate Student
+### Daphne Dong
 
 <img src="/assets/images/headshots/headshot_ddong.jpg" width="20%" hspace="20" align="left">
 Daphne is a second-year undergraduate majoring in Biology and minoring in Statistics and Design. Her interests lie at the intersection of disease modeling, public health, and visual communication. She hopes to explore how computational and statistical tools can reveal patterns in disease spread, then translate those insights through visualization and storytelling. Beyond research, she enjoys art, music, tennis, and spending time in nature.
@@ -148,7 +154,7 @@ Daphne is a second-year undergraduate majoring in Biology and minoring in Statis
 ```
 :::
 
-## Daniel Gao, Undergraduate Student
+### Daniel Gao
 
 <img src="/assets/images/headshots/headshot_dgao.png" width="20%" hspace="20" align="left">
 Daniel Gao is a second-year undergraduate majoring in Computer Science with interests in computational modeling and the spread of information through complex systems. He is particularly interested in applying statistical and machine learning methods to understand how interactions affect information in a group setting. Outside of academics, Daniel enjoys outdoor activities and exploring new places to eat.
@@ -166,7 +172,7 @@ Daniel Gao is a second-year undergraduate majoring in Computer Science with inte
 ```
 :::
 
-## Tyler Long, Undergraduate Student
+### Tyler Long
 
 <img src="/assets/images/headshots/headshot_tlong.jpg" width="20%" hspace="20" align="left">
 Tyler Long is a first-year undergraduate pursuing a B.S. in Statistics. She is interested in the evolution of networks and the spread of information through social media, with future plans to apply this work to the study of diseases and pathogen spread. Outside of the lab, Tyler enjoys drawing and improving her personal record solving a Rubik’s cube.
@@ -184,7 +190,7 @@ Tyler Long is a first-year undergraduate pursuing a B.S. in Statistics. She is i
 ```
 :::
 
-## Clairice Lou, Undergraduate Student
+### Clairice Lou
 
 <img src="/assets/images/headshots/headshot_clou.jpg" width="20%" hspace="20" align="left">
 Clairice is a third-year undergraduate studying Data Science with a concentration in Global Public Health. She is interested in using data science and computational methods to better understand public health problems and improve health outcomes, particularly how diseases and information spread through populations and networks, and how data can be used to better understand and address these patterns. Outside of the lab, she enjoys spending time with friends.
@@ -202,7 +208,7 @@ Clairice is a third-year undergraduate studying Data Science with a concentratio
 ```
 :::
 
-## Gelila Solomon, Undergraduate Student
+### Gelila Solomon
 
 <img src="/assets/images/headshots/headshot_gsolomon.jpg" width="20%" hspace="20" align="left">
 Gelila Solomon is a second-year undergraduate studying Data Science and minoring in General Business. Her interests focus on applying network analysis and machine learning methods to examine social behavior and broader societal structures. Beyond her research interests, Gelila enjoys reading science fiction, spending time with loved ones, and giving tours as a member of the Virginia Guides Service.
