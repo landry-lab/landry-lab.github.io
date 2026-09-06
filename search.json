@@ -72,28 +72,28 @@
   {
     "objectID": "pages/joining.html",
     "href": "pages/joining.html",
-    "title": "Open Positions",
+    "title": "Joining the lab",
     "section": "",
     "text": "All students and postdocs must sign a code of conduct to join the lab. Every year (or semester), every member will sign a mentor-mentee contract which will be evaluated once a semester (twice if first semester in the lab)."
   },
   {
     "objectID": "pages/joining.html#prospective-phd-students",
     "href": "pages/joining.html#prospective-phd-students",
-    "title": "Open Positions",
+    "title": "Joining the lab",
     "section": "Prospective PhD Students",
     "text": "Prospective PhD Students\nIf you are a prospective PhD student considering UVA Biology and interested in modeling the spread of diseases, information, or ideologies from a network science perspective, please email Prof. Landry directly with a subject line of “Prospective PhD Student” and include a brief description of your past and current research interests and your CV. Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.\nOnce you reach out, I’ll determine if we have capacity for students and we’ll set a short initial meeting to see if it seems like a good fit on both sides. If it is, I will encourage you to apply to the Biology PhD program. More details on the application process are here. This is not a guarantee of admission."
   },
   {
     "objectID": "pages/joining.html#uva-undergraduate-students",
     "href": "pages/joining.html#uva-undergraduate-students",
-    "title": "Open Positions",
+    "title": "Joining the lab",
     "section": "UVA Undergraduate Students",
     "text": "UVA Undergraduate Students\nIf you are an undergraduate student and are excited about doing research on contagion spreading on complex networks, email Prof. Landry directly with a subject line of “Undergraduate Research Student at UVA” and include your CV and a description of your interests. Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.\nOnce you reach out, I’ll determine if we have capacity for students and we’ll set a short initial initial meeting to see if it seems like a good fit on both sides. We will determine this from discussing your research interests, technical skills, and how a research experience fits into your long-term goals. It’s impossible to fully figure out whether this is a good fit from this short meeting, however, and you will start a semester-long probationary period. If the lab determines that you are a good fit, you can continue to work in the lab, and if not, we recommend that you find another lab more aligned with your interests and abilities.\nYour first semester working with us, you will take BIOL 3920 for independent research or be paid to complete concrete deliverables. This is S/U graded, which provides a low-stakes way to determine your abilities. If you stay in the lab, we can talk about continuing to do research through BIOL 4920 (graded independent research) or a paid undergraduate research assistantship (contingent on available funds). While Prof. Landry will be somewhat involved in the direction of the project, you can expect that a graduate student or postdoc will be your primary mentor.\nOur expectation is that you will spend a minimum of 6 hours weekly on research while you are a part of the lab (including lab-based meetings). You will show progress by writing in a research journal, which you will update every time that you work on your project (weekly, daily, etc.). In addition, our expectation is that you are not part of another research lab while you are working with us. We will ask you to sign a document committing to these requirements."
   },
   {
     "objectID": "pages/joining.html#high-school-students",
     "href": "pages/joining.html#high-school-students",
-    "title": "Open Positions",
+    "title": "Joining the lab",
     "section": "High School Students",
     "text": "High School Students\nUnfortunately, we do not admit high school students into the lab."
   },
@@ -313,6 +313,13 @@
     "title": "Lab members",
     "section": "Rudra Davé, Undergraduate Student",
     "text": "Rudra Davé, Undergraduate Student\n Rudra Dave is a second-year undergraduate majoring in Data Science on the pre-med track. He is particularly interested in understanding how diseases and ideas spread through networks, with a focus on group interactions. He uses Python tools, including XGI, to model these dynamics using higher-order networks.\n\n\n     Email\n\n\n     LinkedIn"
+  },
+  {
+    "objectID": "pages/people.html#daphne-dong-undergraduate-student",
+    "href": "pages/people.html#daphne-dong-undergraduate-student",
+    "title": "Lab members",
+    "section": "Daphne Dong, Undergraduate Student",
+    "text": "Daphne Dong, Undergraduate Student\n Daphne is a second-year undergraduate majoring in Biology and minoring in Statistics and Design. Her interests lie at the intersection of disease modeling, public health, and visual communication. She hopes to explore how computational and statistical tools can reveal patterns in disease spread, then translate those insights through visualization and storytelling. Beyond research, she enjoys art, music, tennis, and spending time in nature.\n\n\n     Email"
   },
   {
     "objectID": "pages/people.html#daniel-gao-undergraduate-student",
