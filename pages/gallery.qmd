@@ -2,6 +2,14 @@
 title: "Gallery"
 ---
 
+## Beginning-of-semester party 2026
+
+::: {#retreat layout-ncol=2}
+![](/assets/images/gallery/2026-08-30_tie_dye.jpg)
+
+![](/assets/images/gallery/2026-08-30_flying_kites.jpg)
+:::
+
 ## End-of-semester party Spring 2026
 
 ![](/assets/images/gallery/2026-05-03_party.jpg)
