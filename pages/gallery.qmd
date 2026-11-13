@@ -2,12 +2,38 @@
 title: "Gallery"
 ---
 
-## Beginning-of-semester party 2026
+## Beginning-of-semester party Fall 2026
 
-::: {#retreat layout-ncol=2}
-![](/assets/images/gallery/2026-08-30_tie_dye.jpg)
+::: {#partyfall2026 layout-ncol=2}
+![](/assets/images/gallery/2026-08-30_tie_dye.jpg){width=74.25%}
 
-![](/assets/images/gallery/2026-08-30_flying_kites.jpg)
+![](/assets/images/gallery/2026-08-30_flying_kites.jpg){width=25.72%}
+:::
+
+## Blue Ridge Tunnel Summer 2026
+
+::: {#brt layout-ncol=2}
+![](/assets/images/gallery/2026-07-23_lab_hike.jpg){width=37.75%}
+
+![](/assets/images/gallery/2026-07-23_tacos.jpg){width=62.25%}
+:::
+
+## Craft night Summer 2026
+
+![](/assets/images/gallery/2026-07-16_craft_night.jpg)
+
+## NetSci 2026
+
+::: {#netsci1 layout-ncol=2}
+![](/assets/images/gallery/2026-06-02_netsci1.jpg){width=48.5%}
+
+![](/assets/images/gallery/2026-06-05_netsci2.jpg){width=51.5%}
+:::
+
+::: {#netsci2 layout-ncol=2}
+![](/assets/images/gallery/2026-06-05_netsci3.jpg){width=46.5%}
+
+![](/assets/images/gallery/2026-06-05_netsci4.jpg){width=53.5%}
 :::
 
 ## End-of-semester party Spring 2026
