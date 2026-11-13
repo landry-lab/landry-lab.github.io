@@ -74,14 +74,14 @@
     "href": "pages/joining.html",
     "title": "Joining the lab",
     "section": "",
-    "text": "All students and postdocs must sign a code of conduct to join the lab. Every year (or semester), every member will sign a mentor-mentee contract which will be evaluated once a semester (twice if first semester in the lab)."
+    "text": "If you are a prospective PhD student considering UVA Biology or UVA Data Science and interested in modeling the spread of diseases, information, or ideologies from a network science perspective, please email Prof. Landry directly with a subject line of “Prospective PhD Student” and include a brief description of your past and current research interests and your CV. Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.\nOnce you reach out, I’ll determine if we have capacity for students and we’ll set a short initial meeting to see if it seems like a good fit on both sides. If it is, I will encourage you to apply to the Biology PhD program. More details on the application process are here for the Biology PhD program and here for the Data Science PhD program. This is not a guarantee of admission."
   },
   {
     "objectID": "pages/joining.html#prospective-phd-students",
     "href": "pages/joining.html#prospective-phd-students",
     "title": "Joining the lab",
-    "section": "Prospective PhD Students",
-    "text": "Prospective PhD Students\nIf you are a prospective PhD student considering UVA Biology and interested in modeling the spread of diseases, information, or ideologies from a network science perspective, please email Prof. Landry directly with a subject line of “Prospective PhD Student” and include a brief description of your past and current research interests and your CV. Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.\nOnce you reach out, I’ll determine if we have capacity for students and we’ll set a short initial meeting to see if it seems like a good fit on both sides. If it is, I will encourage you to apply to the Biology PhD program. More details on the application process are here. This is not a guarantee of admission."
+    "section": "",
+    "text": "If you are a prospective PhD student considering UVA Biology or UVA Data Science and interested in modeling the spread of diseases, information, or ideologies from a network science perspective, please email Prof. Landry directly with a subject line of “Prospective PhD Student” and include a brief description of your past and current research interests and your CV. Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.\nOnce you reach out, I’ll determine if we have capacity for students and we’ll set a short initial meeting to see if it seems like a good fit on both sides. If it is, I will encourage you to apply to the Biology PhD program. More details on the application process are here for the Biology PhD program and here for the Data Science PhD program. This is not a guarantee of admission."
   },
   {
     "objectID": "pages/joining.html#uva-undergraduate-students",
@@ -96,6 +96,13 @@
     "title": "Joining the lab",
     "section": "High School Students",
     "text": "High School Students\nUnfortunately, we do not admit high school students into the lab."
+  },
+  {
+    "objectID": "pages/joining.html#expectations",
+    "href": "pages/joining.html#expectations",
+    "title": "Joining the lab",
+    "section": "Expectations",
+    "text": "Expectations\nAll students and postdocs must sign a code of conduct to join the lab. New undergraduate students will sign a mentor-mentee contract which will be evaluated once a semester (twice if first semester in the lab). PhD students and postdocs will work with Prof. Landry to write an individaul development plan to map out professional goals."
   },
   {
     "objectID": "pages/evaluation.html",
