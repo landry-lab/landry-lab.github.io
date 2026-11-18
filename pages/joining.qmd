@@ -6,7 +6,7 @@ title: "Joining the lab"
 
 If you are a prospective PhD student considering UVA Biology or UVA Data Science and interested in modeling the spread of diseases, information, or ideologies from a network science perspective, please email Prof. Landry directly with a subject line of "Prospective PhD Student" and include a brief description of your past and current research interests and your CV. **Mathematics and computer programming are a large part of what our lab does. Make sure that this feels like a good fit before you reach out.**
 
-Once you reach out, I'll determine if we have capacity for students and we'll set a short initial meeting to see if it seems like a good fit on both sides. If it is, I will encourage you to apply to the Biology PhD program. More details on the application process are [here](https://bio.as.virginia.edu/how-apply-graduate-program) for the Biology PhD program and [here](https://datascience.virginia.edu/phd/admissions) for the Data Science PhD program. This is not a guarantee of admission.
+Once you reach out, I'll determine if we have capacity for students and we'll set a short initial meeting to see if it seems like a good fit on both sides. If it is, I will encourage you to apply! More details on the application process are [here](https://bio.as.virginia.edu/how-apply-graduate-program) for the Biology PhD program and [here](https://datascience.virginia.edu/phd/admissions) for the Data Science PhD program. This is not a guarantee of admission.
 
 ## UVA Undergraduate Students
 

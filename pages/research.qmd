@@ -44,7 +44,7 @@ References:
 
 ## Open software
 
- The field of network science bridges across many different disciplines, bringing together theorists, computational scientists, social scientists, and many others, each with vastly different expertise. Open software decreases is essential for facilitating cross-disciplinary collaborations.
+ The field of network science bridges across many different disciplines, bringing together theorists, computational scientists, social scientists, and many others, each with vastly different expertise. Open software is essential for facilitating cross-disciplinary collaborations.
 
  References:
 

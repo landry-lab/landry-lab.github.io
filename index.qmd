@@ -50,8 +50,10 @@ We are always open to collaboration as well, so reach out if you're interested!
 
 ## Recent News
 
+* **November 2026**: [Finding Common Ground: Graded Communal Knowledge in Bluesky Starter Packs](https://arxiv.org/abs/2609.19549) by Sagar Kumar, Lawrence Swaminathan Xavier Prince, Julia Mendelsohn, Brooke Foucault Welles, and Prof. Landry has been accepted at [ICWSM 2027](https://www.icwsm.org/2027/index.html)!
 * **November 2026**: Daniel Kaiser is giving a talk at the SIAM Mathematics of Data Science conference in Salt Lake City on the rarity of complex contagion on Bluesky.
-* **November 2026**: Prof. Landry gave a talk at [ASA SLDS 2026](https://asa-slds.github.io/slds2026/) talking about "Cartographic Characterization of Complex Contagion".
+* **November 2026**: Prof. Landry gave a talk at [ASA SLDS 2026](https://asa-slds.github.io/slds2026/) talking about "Cartographic Characterization of Complex Contagions".
+* **November 2026**: XGI [v1.0](https://github.com/xgi-org/xgi/releases#release-v1.0.0) has been released! This is the first stable release and there will be no breaking changes in the future!
 * **September 2026**: New preprint posted! [Finding Common Ground: Graded Communal Knowledge in Bluesky Starter Packs](https://arxiv.org/abs/2609.19549) in collaboration with Sagar Kumar, Lawrence Swaminathan Xavier Prince, Julia Mendelsohn, and Brooke Foucault Welles is posted on ArXiv! This paper finds evidence for common ground on Bluesky, the social media platform.
 * **September 2026**: New paper out! [NotD: The network of the day](https://doi.org/10.2478/connections-2026-0005) in collaboration with Abhay Gupta and Jessica Taggart is now published in Connections! It introduces an accessible, low-effort classroom activity for network science classes.
 * **July 2026**: New preprint out! [Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity](https://arxiv.org/abs/2607.25139) with [Katerina Tang](https://kbtang28.github.io/) (on the job market!), [Daniel Kaiser](https://kaiser-dan.github.io/), [William Thompson](https://www.willhwthompson.com/), [Jean-Gabriel Young](https://jgyoung.ca/), and [Laurent Hébert-Dufresne](https://laurenthebertdufresne.github.io/).
